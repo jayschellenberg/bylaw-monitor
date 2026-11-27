@@ -93,6 +93,18 @@ still-current by-law is never archived.
 | Draft only | The only copies held of the province's by-law show first reading only |
 | Current (ahead of province) | You hold a final copy of a by-law newer than the one the province lists |
 
+**Consolidation rule.** A consolidation, when one exists, is the current version of a by-law, and the
+register links to the newest one held. Every Friday `consolidations.py` downloads the newest consolidation
+posted for each current by-law and compares it with yours:
+- same file → nothing to do;
+- you have none, or it's newer (by consolidation date, else the site's last-modified date) → it's filed
+  automatically as `<Type> By-law <#> - Consolidated <date> - <name>`, and your previous consolidation of that
+  by-law moves to `<type>\Archives`;
+- it can't be compared → it stays in Staging for review.
+
+The original by-law is never moved. A PDF that names a different by-law is skipped. Run it by hand with
+`python consolidations.py` (dry run) or `--yes`.
+
 **DRAFT rule.** A document whose readings block shows only first reading (second and third blank) is
 still useful but not the final version: `drafts.py` (run every Friday) prefixes its file name with
 `DRAFT - ` and the register notes "DRAFT (first reading only)". Office consolidations are skipped, and

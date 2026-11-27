@@ -18,6 +18,7 @@ from collections import Counter
 from datetime import date, datetime
 
 import changes
+import consolidations
 import discover
 import drafts
 import excel
@@ -88,7 +89,7 @@ def digest(summary: dict, reg: dict) -> tuple[str, str]:
              if summary["zoning_last_edit"] else
              "<p style='font-family:Segoe UI,Arial;font-size:13px;color:#555'>Quick run: province data and websites "
              "were not checked this time; the register was rebuilt from existing data.</p>"]
-    quiet = not (new_staged or prov or newer_new or summary["overdue"] or summary["broken"] or summary.get("drafts_renamed"))
+    quiet = not (new_staged or prov or newer_new or summary["overdue"] or summary["broken"] or summary.get("drafts_renamed") or summary.get("consolidations"))
     if quiet:
         parts.append("<p style='font-family:Segoe UI,Arial'><b>No changes this week.</b> Nothing new from the province "
                      "or on the watched municipal pages.</p>")
@@ -120,6 +121,14 @@ def digest(summary: dict, reg: dict) -> tuple[str, str]:
         section(f"You hold by-laws newer than the province lists ({len(ahead)})", "<p style='font-size:13px'>" + e(
             "; ".join(f"{r['municipality']} {r['doc_type'].lower()} {r['web'].get('newer')} (province: {r['od_bylaw']})"
                       for r in ahead)) + "</p>")
+    if summary.get("consolidations"):
+        section(f"Consolidations ({len(summary['consolidations'])})", _rows_html(
+            [[e(c["municipality"]), e(c["doc_type"]), e(c["bylaw"]), e(c.get("new_date") or "undated"),
+              e(c.get("held_date") or "none held"),
+              e("filed" if c.get("filed_as") else "waiting for review") + "<br><span style='color:#777;font-size:11px'>"
+              + e(c.get("filed_as") or "") + "".join("<br>archived: " + e(a) for a, _ in c.get("archived", [])) + "</span>"]
+             for c in summary["consolidations"]],
+            ["Municipality", "Document", "By-law", "Consolidated to", "You had", "Action"]))
     if summary.get("drafts_renamed"):
         section(f"Renamed as DRAFT (first reading only) ({len(summary['drafts_renamed'])})", "<p style='font-size:13px'>" + "<br>".join(
             e(r["to"]) for r in summary["drafts_renamed"]) + "</p><p style='font-size:12px;color:#555'>To keep a file's original "
@@ -231,6 +240,14 @@ def run(fetch: bool = True) -> dict:
                             "current_set": [r["od_bylaw"]] if r["od_bylaw"] else [], "note": w.get("text", ""),
                             "url": w.get("url")})
     staged = (step("download to staging", lambda: stage.collect(reg, ws), []) or []) if fetch else []
+    # Jason's rule: the newest consolidation of a current by-law is filed automatically, old one archived.
+    consol = (step("consolidations", lambda: consolidations.collect(reg, apply=True), []) or []) if fetch else []
+    consol = [c for c in consol if c["decision"].startswith(("file", "review"))]
+    if any(c.get("filed_as") for c in consol):
+        step("folder inventory (after consolidations)", inventory.run)
+        reg = register.build()
+        step("web attach (after consolidations)", web.run)
+        reg = read_json(register.REGISTER)
     stage.apply_to_register(reg)
     write_json(register.REGISTER, reg)
     step("change history", lambda: changes.save(web_records))
@@ -241,7 +258,7 @@ def run(fetch: bool = True) -> dict:
                "devplan_last_edit": od.get("devplan_last_edit"), "province_changes": od.get("changes", []),
                "owners_checked": ws.get("owners", 0), "broken": ws.get("broken", []), "recrawled": ws.get("recrawled", {}),
                "new_links": len(ws.get("new_links", [])), "staged": staged, "web_findings": web_records,
-               "overdue": overdue, "totals": totals, "errors": errors, "drafts_renamed": renamed}
+               "overdue": overdue, "totals": totals, "errors": errors, "drafts_renamed": renamed, "consolidations": consol}
     subject, body = digest(summary, reg)
     DIGESTS.mkdir(parents=True, exist_ok=True)
     path = DIGESTS / f"Digest {date.today():%Y-%m-%d}.html"

@@ -28,6 +28,7 @@ from pathlib import Path
 from urllib.parse import unquote, urlparse
 
 from common import DATA, MAPS, STAGING, bylaw_variants, norm_bylaw, now_iso, read_json, session, write_json
+from register import _name_has
 
 PENDING = DATA / "pending.json"
 FILED_LABEL = {"Zoning by-law": "Zoning By-law", "Development plan": "Development Plan By-law",
@@ -197,7 +198,8 @@ def _superseded(item: dict, dest: Path) -> list[Path]:
         for f in r.get("files", []) + r.get("other_files", []):
             nums = {v for n in f["numbers"] for v in bylaw_variants(n)}
             p = Path(f["path"])
-            if f["archived"] or (nums & new) or (nums & keep) or not p.exists():
+            # _name_has: year-first numbers ('2023-006') are not in f["numbers"], so check the file name too
+            if f["archived"] or (nums & new) or (nums & keep) or not p.exists() or _name_has(p.name, item["bylaw"]):
                 continue
             if item["doc_type"] == "Secondary plan" and not (nums or Path(item["path"]).stem.lower()[:15] in p.stem.lower()):
                 continue
@@ -233,7 +235,7 @@ def approve(item_id: str, yes: bool = False, archive: bool = True, keep: tuple[s
     name = f"{FILED_LABEL[item['doc_type']]} {num}{' ' + label if label else ''} - {src.stem}"
     if (item.get("pdf") or {}).get("reading_stage") == "first reading only" or (item.get("claude_check") or {}).get("is_draft"):
         name = "DRAFT - " + name             # Jason's rule: first reading only = draft, not the final version
-    new_path = (dest / _safe(name, 140)).with_suffix(src.suffix)
+    new_path = dest / (_safe(name, 140) + src.suffix)      # not with_suffix: names can hold dots
     old = [p for p in _superseded(item, dest) if not any(k.lower() in p.name.lower() for k in keep)] if archive else []
     plan = {"move_new": [str(src), str(new_path)],
             "archive": [[str(p), str(_archive_dir(p, item["doc_type"]) / p.name)] for p in old],

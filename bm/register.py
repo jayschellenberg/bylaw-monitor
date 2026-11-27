@@ -18,6 +18,7 @@ Status values:
 from __future__ import annotations
 
 import re
+from pathlib import Path
 from collections import defaultdict
 
 from common import DATA, MAPS, bylaw_variants, norm_bylaw, now_iso, read_json, write_json
@@ -50,8 +51,25 @@ def doc_numbers(d: dict) -> set[str]:
     return nums
 
 
+def _name_has(name: str, bylaw: str) -> bool:
+    """Does the file name spell this exact by-law number? filename_numbers() skips year-first numbers
+    such as '2018-1' or '2023-006' because they look like dates; once the province names the by-law,
+    a file name that spells it (any separator, leading zeros ignored) is a match."""
+    stem = re.sub(r"(?i)\.(pdf|docx?|jpe?g|png|gif|tiff?)$", "", name)
+    for v in bylaw_variants(bylaw):
+        parts = v.split("-")
+        if len(parts) != 2:
+            continue
+        a, b = parts
+        if re.search(rf"(?<![\d]){re.escape(a)}\s?[-/_.]\s?0*{re.escape(b)}(?![\d])", stem):
+            return True
+    return False
+
+
 def _matches(d: dict, bylaw: str) -> bool:
-    return bool(bylaw_variants(bylaw) & {v for n in doc_numbers(d) for v in bylaw_variants(n)})
+    if bylaw_variants(bylaw) & {v for n in doc_numbers(d) for v in bylaw_variants(n)}:
+        return True
+    return _name_has(d["file"].split("\\")[-1], bylaw)
 
 
 def _is_main(d: dict) -> bool:
@@ -73,10 +91,19 @@ def _held_summary(files: list[dict]) -> dict:
     live = [f for f in files if not f["archived"]] or files
     live = [f for f in live if not f.get("draft")] or live      # a final copy beats a draft
     mains = [f for f in live if (f["pages"] or 0) >= 8] or live
-    best = max(mains, key=lambda f: ((f["consolidation"] or ""), (f["third_reading"] or ""), f["pages"] or 0, f["modified"]))
+    # Jason's rule: a consolidation, when one exists, is the current version (newest consolidation first).
+    from web import CONSOL_RX, consol_date
+
+    def rank(f):
+        name = Path(f["file"]).name
+        is_consol = bool(f["consolidation"] or CONSOL_RX.search(name))
+        return (is_consol, f["consolidation"] or consol_date(name) or "", f["third_reading"] or "", f["pages"] or 0, f["modified"])
+    best = max(mains, key=rank)
+    adopting_only = (best["pages"] or 0) < 8 and re.search(r"(?i)adopting page", Path(best["file"]).name)
     return {"best_file": best["path"], "third_reading": best["third_reading"],
-            "held_note": "DRAFT (first reading only)" if best.get("draft") else "",
-            "consolidation": max((f["consolidation"] for f in live if f["consolidation"]), default=None),
+            "held_note": "DRAFT (first reading only)" if best.get("draft")
+                         else "Adopting page only (plan not held)" if adopting_only else "",
+            "consolidation": best["consolidation"] or (consol_date(Path(best["file"]).name) if rank(best)[0] else None),
             "downloaded": best["modified"]}
 
 

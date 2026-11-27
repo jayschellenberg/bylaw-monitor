@@ -194,7 +194,8 @@ def attach(reg: dict, watched: dict) -> list[dict]:
         base_year = max(filter(None, [year_of(r["od_bylaw"]) if r["od_bylaw"] else None,
                                       *(year_of(n) for f in r.get("files", []) for n in f["numbers"])]), default=None)
         for d in (main_docs if r["doc_type"] != "Secondary plan" else []):
-            if d["url"] in ignore or CONSOL_RX.search(_label(d)):
+            # WordPress Download Manager links carry a per-visit "&refresh=" token: ignore it when matching
+            if d["url"] in ignore or re.sub(r"[&?]refresh=[^&]*", "", d["url"]) in ignore or CONSOL_RX.search(_label(d)):
                 continue     # consolidations are handled above, never counted as a new by-law
             nums_here = link_numbers(_label(d))
             if r["od_bylaw"] and bylaw_variants(r["od_bylaw"]) & {v for x in nums_here for v in bylaw_variants(x)}:

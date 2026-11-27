@@ -171,7 +171,7 @@
   "muni:447": {
     "owner": "muni:447",
     "home": "https://www.myselkirk.ca/",
-    "checked": "2026-11-05T08:40:36-05:00",
+    "checked": "2026-11-20T13:06:18-05:00",
     "pages": [
       {
         "url": "https://www.myselkirk.ca/city-services/planninganddevelopment/zoningupdate/",
@@ -210,47 +210,40 @@
         "found_via": "Zoning",
         "docs": [
           {
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2026/11/By-law-No.-5403-Zoning-By-law-LETTER.pdf",
+            "text": "Zoning By-Law",
+            "strong": true
+          },
+          {
             "url": "https://www.myselkirk.ca/wp-content/uploads/2023/01/ReZoning-Application-2023.pdf?swcfpc=1",
             "text": "Application",
             "strong": true
           }
         ],
-        "n_strong": 1
-      },
-      {
-        "url": "https://www.myselkirk.ca/city-services/planninganddevelopment/developmentplanupdate/",
-        "found_via": "Selkirk’s Development Plan Update",
-        "docs": [
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2026/03/By-law-No.-5399-Development-Plan-By-law-1st-Reading.pdf",
-            "text": "click here",
-            "strong": true
-          },
-          {
-            "url": "https://selkirknow.ca/wp-content/uploads/2021/06/Selkirk-West-End-Concept-Plan.pdf",
-            "text": "West End Concept Plan By-law",
-            "strong": false
-          }
-        ],
-        "n_strong": 1
+        "n_strong": 2
       },
       {
         "url": "https://www.myselkirk.ca/city-government/by-laws/",
         "found_via": "By-Laws",
         "docs": [
           {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2021/02/BL-4802-updated.pdf?swcfpc=1",
-            "text": "By-Law 4802",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/09/5300-Capital-Asset-Management-By-law-passed-signed.pdf",
-            "text": "By-Law 5300",
-            "strong": false
-          },
-          {
             "url": "https://www.myselkirk.ca/wp-content/uploads/2021/11/5360-Greenhouse-Gas-Accountability-Bylaw-Passed-November-15-2021.pdf?swcfpc=1",
             "text": "By-Law 5360",
+            "strong": false
+          },
+          {
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2023/06/5376-Fees-and-Charges-By-law.pdf?swcfpc=1",
+            "text": "By-Law 5376",
+            "strong": false
+          },
+          {
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/05/5388-2024-Tax-Levy-By-law-passed-May-13-2024.pdf",
+            "text": "By-Law 5388",
+            "strong": false
+          },
+          {
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2021/02/BL-4802-updated.pdf?swcfpc=1",
+            "text": "By-Law 4802",
             "strong": false
           },
           {
@@ -259,38 +252,13 @@
             "strong": false
           },
           {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/09/5372-Growth-Sustainability-and-Equity-By-law-passed-October-17-2022.pdf",
-            "text": "By-Law 5372",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/09/5376-Fees-and-Charges-By-law-Passed-May-8-2023-1.pdf",
-            "text": "By-Law 5376",
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/03/5369-Endowment-Fund-Sustainability-by-law-Passed-September-12-2022.pdf",
+            "text": "By-Law 5369",
             "strong": false
           },
           {
             "url": "https://www.myselkirk.ca/wp-content/uploads/2024/05/5386-Protective-Services-Special-Services-Tax-Levy-By-Law-No.-5386-Passed-May-6-2024.pdf",
             "text": "By-Law 5386",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2025/06/5392-Transportation-Services-Special-Service-Tax-Levy-By-law.pdf",
-            "text": "By-Law 5392",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2026/05/By-law-No.-5401-2026-Tax-Levy-By-law.pdf",
-            "text": "By-Law 5401",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2026/10/5404-Short-Term-Accommodation-Tax-By-law.pdf",
-            "text": "By-Law 5404",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2026/10/5400-Sustainable-Financial-Reserves-By-law.pdf",
-            "text": "By-Law 5400",
             "strong": false
           },
           {
@@ -306,6 +274,11 @@
           {
             "url": "https://www.myselkirk.ca/wp-content/uploads/2015/02/4869-4558-Firearm-By-Law-w.pdf?swcfpc=1",
             "text": "By-Law 4558, 4869",
+            "strong": false
+          },
+          {
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/01/4832-Open-Fires-By-Law.pdf",
+            "text": "By-Law 4832",
             "strong": false
           },
           {
@@ -329,48 +302,18 @@
             "strong": false
           },
           {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/09/5369-Endowment-Fund-Sustainability-by-law-Passed-September-12-2022.pdf",
-            "text": "By-Law 5369",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2026/10/5402-Naming-of-Features-within-the-City-of-Selkirk.pdf",
-            "text": "By-Law 5402",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2025/12/4968-Zoning-By-Law-Consolidation.pdf",
-            "text": "By-Law 4968",
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2026/11/By-law-No.-5403-Zoning-By-law.pdf",
+            "text": "By-law 5403",
             "strong": true
           },
           {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/09/5317-Economic-Incentive-By-law-passed-April-23-2018.pdf",
-            "text": "By-Law 5317",
-            "strong": false
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2026/11/By-law-No.-5399-Development-Plan-By-law-1.pdf",
+            "text": "By-law 5399",
+            "strong": true
           },
           {
             "url": "https://www.myselkirk.ca/wp-content/uploads/2021/06/5349-City-of-Selkirk-Capital-Levy-By-law-Passed-April-26-2021.pdf?swcfpc=1",
             "text": "By-Law 5349",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/09/5356-West-End-Concept-Plan-By-Law-Passed-August-9-2021-compressed-1.pdf",
-            "text": "By-Law 5356",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/09/5387-West-End-Concept-Plan-Amending-By-law-No.-5387-passed-April-8-2024.pdf",
-            "text": "5387",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/09/5373-Proceeds-of-Real-Estate-Sale-By-Law-passed-October-17-2022.pdf",
-            "text": "By-Law 5373",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2025/07/Selkirk-Building-By-law-No.-4722.pdf",
-            "text": "By-Law 4722",
             "strong": false
           },
           {
@@ -384,13 +327,8 @@
             "strong": false
           },
           {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/01/4832-Open-Fires-By-Law.pdf",
-            "text": "By-Law 4832",
-            "strong": false
-          },
-          {
             "url": "https://www.myselkirk.ca/wp-content/uploads/2019/04/5323-Council-Compensation-and-Expenses-By-law-Passed-February-11-2019.pdf?swcfpc=1",
-            "text": "By-Law 5323",
+            "text": "By-law 5323",
             "strong": false
           },
           {
@@ -401,16 +339,6 @@
           {
             "url": "http://myselkirk.ca/wp-content/uploads/2016/01/5283-CAO-passed-December-29-2015.pdf",
             "text": "By-Law 5283",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2025/10/5397-Members-of-Council-Code-of-Conduct.pdf",
-            "text": "By-Law 5397",
-            "strong": false
-          },
-          {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2026/10/5398-Official-Symbols-By-law.pdf",
-            "text": "By-Law 5398",
             "strong": false
           },
           {
@@ -429,17 +357,12 @@
             "strong": false
           },
           {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/09/5335-Sponsorship-and-Naming-Rights-Passed-Sept-23-2019.pdf",
-            "text": "By-Law 5335",
-            "strong": false
-          },
-          {
             "url": "https://www.myselkirk.ca/wp-content/uploads/2024/01/3756-Streets-By-Law.pdf",
             "text": "By-Law 3756, 4671",
             "strong": false
           },
           {
-            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/09/By-Law-4868-5123.pdf",
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2024/01/4868-5123-Traffic-By-Law.pdf",
             "text": "By-Law 4868, 5123",
             "strong": false
           },
@@ -459,6 +382,35 @@
             "strong": false
           }
         ],
+        "n_strong": 2
+      },
+      {
+        "url": "https://www.myselkirk.ca/city-services/planninganddevelopment/developmentplanupdate/",
+        "found_via": "Selkirk’s Development Plan Update",
+        "docs": [
+          {
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2026/03/By-law-No.-5399-Development-Plan-By-law-1st-Reading.pdf",
+            "text": "click here",
+            "strong": true
+          },
+          {
+            "url": "https://selkirknow.ca/wp-content/uploads/2021/06/Selkirk-West-End-Concept-Plan.pdf",
+            "text": "West End Concept Plan By-law",
+            "strong": false
+          }
+        ],
+        "n_strong": 1
+      },
+      {
+        "url": "https://www.myselkirk.ca/city-services/planninganddevelopment/permitsandapplications/",
+        "found_via": "Permits and Applications",
+        "docs": [
+          {
+            "url": "https://www.myselkirk.ca/wp-content/uploads/2023/01/ReZoning-Application-2023.pdf",
+            "text": "Rezoning Application",
+            "strong": true
+          }
+        ],
         "n_strong": 1
       }
     ],
@@ -468,12 +420,13 @@
     "fetched": 18,
     "name": "SELKIRK (CITY)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:177": {
     "owner": "muni:177",
     "home": "https://www.rm-stfrancois.mb.ca/",
-    "checked": "2026-11-05T08:41:03-05:00",
+    "checked": "2026-11-13T13:04:23-05:00",
     "pages": [
       {
         "url": "https://www.rm-stfrancois.mb.ca/p/files-documents",
@@ -1059,7 +1012,10 @@
     "fetched": 14,
     "name": "ST FRANCOIS XAVIER (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:139": {
     "owner": "muni:139",
@@ -1781,7 +1737,7 @@
   "muni:601": {
     "owner": "muni:601",
     "home": "https://www.rmofalonsa.com/",
-    "checked": "2026-11-05T08:37:42-05:00",
+    "checked": "2026-11-06T13:03:28-05:00",
     "pages": [
       {
         "url": "https://rmofalonsa.com/bylaws/",
@@ -1872,12 +1828,15 @@
     "fetched": 5,
     "name": "ALONSA (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:102": {
     "owner": "muni:102",
     "home": "https://www.rmofargyle.ca/",
-    "checked": "2026-11-05T08:37:42-05:00",
+    "checked": "2026-11-27T13:03:52-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -1931,12 +1890,15 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:400": {
     "owner": "muni:400",
     "home": "https://www.altona.ca/",
-    "checked": "2026-11-05T08:37:42-05:00",
+    "checked": "2026-11-20T13:02:05-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -1990,7 +1952,10 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:110": {
     "owner": "muni:110",
@@ -2109,7 +2074,7 @@
   "muni:109": {
     "owner": "muni:109",
     "home": "https://brendawaskada.ca/",
-    "checked": "2026-11-05T08:37:46-05:00",
+    "checked": "2026-11-13T13:06:09-05:00",
     "pages": [
       {
         "url": "https://brendawaskada.ca/bylaws",
@@ -2447,12 +2412,15 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:600": {
     "owner": "muni:600",
     "home": "https://www.rmalexander.com/",
-    "checked": "2026-11-05T08:37:42-05:00",
+    "checked": "2026-11-27T13:06:43-05:00",
     "pages": [
       {
         "url": "https://www.rmalexander.com/p/by-laws",
@@ -2525,6 +2493,12 @@
             "via": "folder viewer"
           },
           {
+            "url": "https://www.rmalexander.com/Home/DownloadDocument?docId=d1583dc5-90a0-430b-a3a6-300536a1e6be",
+            "text": "By-Law 13-26 Paroisse Saint-Georges Historical Site",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
             "url": "https://www.rmalexander.com/Home/DownloadDocument?docId=bc75f6fc-115a-4c8f-8701-68f9bc0f83ac",
             "text": "By-Law 14-24 Travel Trailer",
             "strong": false,
@@ -2573,10 +2547,11 @@
     "error": null,
     "home_status": 200,
     "home_final": "https://www.rmalexander.com/",
-    "fetched": 11,
+    "fetched": 12,
     "name": "ALEXANDER (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:602": {
     "owner": "muni:602",
@@ -3481,7 +3456,7 @@
   "muni:500": {
     "owner": "muni:500",
     "home": "https://www.brandon.ca/",
-    "checked": "2026-11-05T08:37:42-05:00",
+    "checked": "2026-11-27T13:06:43-05:00",
     "pages": [
       {
         "url": "https://www.brandon.ca/city-hall/by-laws/",
@@ -4011,12 +3986,13 @@
     "fetched": 18,
     "name": "BRANDON (CITY)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:114": {
     "owner": "muni:114",
     "home": "http://www.ericksonmb.ca/",
-    "checked": "2026-11-05T08:38:01-05:00",
+    "checked": "2026-11-20T13:06:04-05:00",
     "pages": [
       {
         "url": "https://www.ericksonmb.ca/by-laws.html",
@@ -4078,8 +4054,8 @@
             "strong": true
           },
           {
-            "url": "https://www.ericksonmb.ca/uploads/7/0/3/5/70359031/srmdp_development_plan__consolidated_version_.pdf",
-            "text": "- South Riding Mountain Planning District Development Plan",
+            "url": "https://www.ericksonmb.ca/uploads/7/0/3/5/70359031/99-25_-_development_plan_by-law.pdf",
+            "text": "- Development Plan By-law No.99-25",
             "strong": true
           },
           {
@@ -4189,7 +4165,8 @@
     "fetched": 6,
     "name": "CLANWILLIAM-ERICKSON (MUNICIPALITY)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:153": {
     "owner": "muni:153",
@@ -5271,7 +5248,7 @@
   "muni:407": {
     "owner": "muni:407",
     "home": "https://www.townofcarberry.ca/",
-    "checked": "2026-11-05T08:37:54-05:00",
+    "checked": "2026-11-27T13:05:19-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -5317,7 +5294,10 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:409": {
     "owner": "muni:409",
@@ -5606,7 +5586,7 @@
   "muni:116": {
     "owner": "muni:116",
     "home": "https://www.gov.cornwallis.mb.ca/",
-    "checked": "2026-11-05T08:38:09-05:00",
+    "checked": "2026-11-27T13:06:43-05:00",
     "pages": [
       {
         "url": "https://gov.cornwallis.mb.ca/files-documents",
@@ -5832,6 +5812,18 @@
         "n_strong": 4
       },
       {
+        "url": "https://gov.cornwallis.mb.ca/index.asp?SEC=CDE63250-E496-404B-87FD-32CA7CEAC9BB&DE=A2099309-20FD-42CF-8CA0-0A6E3F19EECE",
+        "found_via": "Zoning By-Law Review Presentation - November 26, 2026",
+        "docs": [
+          {
+            "url": "https://gov.cornwallis.mb.ca/uploads/dm/166385/RM_of_Cornwallis_Zoning_Bylaw_Review_Presentation_2026.11.19.pdf",
+            "text": "RM of Cornwallis Zoning By-law Review Presentation - 2026.11.19.pdf",
+            "strong": true
+          }
+        ],
+        "n_strong": 1
+      },
+      {
         "url": "https://gov.cornwallis.mb.ca/planning-documents",
         "found_via": "Planning Documents",
         "docs": [
@@ -5847,15 +5839,16 @@
     "error": null,
     "home_status": 200,
     "home_final": "https://gov.cornwallis.mb.ca/",
-    "fetched": 13,
+    "fetched": 15,
     "name": "CORNWALLIS (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:411": {
     "owner": "muni:411",
     "home": "https://www.dauphin.ca/",
-    "checked": "2026-11-05T08:38:09-05:00",
+    "checked": "2026-11-06T13:02:28-05:00",
     "pages": [
       {
         "url": "https://www.dauphin.ca/bylaws",
@@ -6237,12 +6230,15 @@
     "fetched": 17,
     "name": "DAUPHIN (CITY)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:118": {
     "owner": "muni:118",
     "home": "https://www.rmofdauphin.ca/",
-    "checked": "2026-11-05T08:38:10-05:00",
+    "checked": "2026-11-27T13:06:43-05:00",
     "pages": [
       {
         "url": "https://www.rmofdauphin.ca/p/development-plan",
@@ -6335,7 +6331,8 @@
     "fetched": 13,
     "name": "DAUPHIN (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:126": {
     "owner": "muni:126",
@@ -7320,7 +7317,7 @@
   "muni:124": {
     "owner": "muni:124",
     "home": "https://www.elton.ca/",
-    "checked": "2026-11-05T08:38:23-05:00",
+    "checked": "2026-11-27T13:06:43-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -7510,7 +7507,8 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {}
   },
   "muni:119": {
     "owner": "muni:119",
@@ -9069,7 +9067,7 @@
   "muni:606": {
     "owner": "muni:606",
     "home": "https://www.grahamdale.ca/",
-    "checked": "2026-11-05T08:38:45-05:00",
+    "checked": "2026-11-06T13:06:24-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -9226,7 +9224,10 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:129": {
     "owner": "muni:129",
@@ -9987,7 +9988,7 @@
   "muni:604": {
     "owner": "muni:604",
     "home": "https://www.rmofkelsey.ca/",
-    "checked": "2026-11-05T08:38:55-05:00",
+    "checked": "2026-11-27T13:06:43-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -10031,12 +10032,13 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {}
   },
   "muni:111": {
     "owner": "muni:111",
     "home": "https://www.grasslandmunicipality.ca/",
-    "checked": "2026-11-05T08:38:46-05:00",
+    "checked": "2026-11-27T13:06:43-05:00",
     "pages": [
       {
         "url": "https://www.grasslandmunicipality.ca/p/planning-and-development",
@@ -10094,7 +10096,8 @@
     "fetched": 13,
     "name": "GRASSLAND (MUNICIPALITY)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:609": {
     "owner": "muni:609",
@@ -10919,7 +10922,7 @@
   "muni:196": {
     "owner": "muni:196",
     "home": "https://www.killarney.ca/",
-    "checked": "2026-11-05T08:38:58-05:00",
+    "checked": "2026-11-27T13:06:43-05:00",
     "pages": [
       {
         "url": "https://www.killarney.ca/p/by-laws",
@@ -11042,12 +11045,13 @@
     "fetched": 9,
     "name": "KILLARNEY TURTLE MOUNTAIN (MUNICIPALITY)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:333": {
     "owner": "muni:333",
     "home": "https://www.townoflacdubonnet.com/",
-    "checked": "2026-11-05T08:39:01-05:00",
+    "checked": "2026-11-27T13:06:43-05:00",
     "pages": [
       {
         "url": "https://townoflacdubonnet.com/municipal-by-laws-",
@@ -11450,12 +11454,13 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {}
   },
   "muni:614": {
     "owner": "muni:614",
     "home": "https://www.lynnlake.ca/",
-    "checked": "2026-11-05T08:39:13-05:00",
+    "checked": "2026-11-06T13:06:12-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -11473,7 +11478,10 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:144": {
     "owner": "muni:144",
@@ -11787,7 +11795,7 @@
   "muni:208": {
     "owner": "muni:208",
     "home": "https://www.rmofheadingley.ca/",
-    "checked": "2026-11-05T08:38:54-05:00",
+    "checked": "2026-11-20T13:04:27-05:00",
     "pages": [
       {
         "url": "https://www.rmofheadingley.ca/p/by-laws",
@@ -11911,12 +11919,15 @@
     "fetched": 18,
     "name": "HEADINGLEY (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:135": {
     "owner": "muni:135",
     "home": "https://www.hanovermb.ca/",
-    "checked": "2026-11-05T08:38:52-05:00",
+    "checked": "2026-11-06T13:04:39-05:00",
     "pages": [
       {
         "url": "https://hanovermb.ca/by-law-community-safety",
@@ -12299,7 +12310,10 @@
     "fetched": 18,
     "name": "HANOVER (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:159": {
     "owner": "muni:159",
@@ -12532,7 +12546,7 @@
   "muni:433": {
     "owner": "muni:433",
     "home": "https://www.mymorden.ca/",
-    "checked": "2026-11-05T08:39:34-05:00",
+    "checked": "2026-11-06T13:02:57-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -12573,7 +12587,10 @@
         "script_blocked": true,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:145": {
     "owner": "muni:145",
@@ -14647,7 +14664,7 @@
   "muni:429": {
     "owner": "muni:429",
     "home": "https://www.melitamb.ca/",
-    "checked": "2026-11-05T08:39:20-05:00",
+    "checked": "2026-11-06T13:03:35-05:00",
     "pages": [
       {
         "url": "https://www.melitamb.ca/p/by-laws-policies",
@@ -14897,12 +14914,14 @@
           "via": "folder viewer"
         }
       ]
-    }
+    },
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:608": {
     "owner": "muni:608",
     "home": "https://www.lgdofmysterylake.ca/",
-    "checked": "2026-11-05T08:39:41-05:00",
+    "checked": "2026-11-27T13:06:43-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -14980,12 +14999,13 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {}
   },
   "muni:151": {
     "owner": "muni:151",
     "home": "https://www.rmofmontcalm.com/",
-    "checked": "2026-11-05T08:39:31-05:00",
+    "checked": "2026-11-27T13:04:24-05:00",
     "pages": [
       {
         "url": "https://rmofmontcalm.com/by-laws",
@@ -15085,7 +15105,10 @@
     "fetched": 10,
     "name": "MONTCALM (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:149": {
     "owner": "muni:149",
@@ -15511,7 +15534,7 @@
   "muni:437": {
     "owner": "muni:437",
     "home": "https://www.neepawa.ca/",
-    "checked": "2026-11-05T08:39:42-05:00",
+    "checked": "2026-11-20T13:05:36-05:00",
     "pages": [
       {
         "url": "https://www.neepawa.ca/by-laws-policies/",
@@ -15752,7 +15775,10 @@
     "fetched": 4,
     "name": "NEEPAWA (TOWN)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:340": {
     "owner": "muni:340",
@@ -18581,7 +18607,7 @@
   "muni:163": {
     "owner": "muni:163",
     "home": "https://www.rmofportage.ca/",
-    "checked": "2026-11-05T08:40:04-05:00",
+    "checked": "2026-11-06T13:02:16-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -18645,7 +18671,10 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:403": {
     "owner": "muni:403",
@@ -18849,8 +18878,435 @@
   "muni:616": {
     "owner": "muni:616",
     "home": "https://www.pinawa.com/",
-    "checked": "2026-11-05T08:39:52-05:00",
+    "checked": "2026-11-06T13:03:48-05:00",
     "pages": [
+      {
+        "url": "https://www.pinawa.com/p/documents-library",
+        "found_via": "Documents and Forms",
+        "docs": [
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=d112ac2e-658a-45c8-ad62-0935d128344d",
+            "text": "Building By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=e2dbf78c-98e1-4bb6-891a-df66ef327b00",
+            "text": "Sewer and Water Connection Rates By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=c0c1a060-d949-41a7-a38e-8fd971da2246",
+            "text": "Zoning With Maps By-Law",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=2380befc-68d8-46a0-8c43-cca4636b83db",
+            "text": "Awanipark Water - Bylaw 870-2020",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=6b380199-4f7a-4a5e-922c-8f9e2fe3306f",
+            "text": "Borrowing - Garbage Truck and Tipping Bin - Bylaw 940-2025",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=c7831142-a535-4426-918c-9214f8157546",
+            "text": "Borrowing - Waterline Renewal Grey and Cauchon - Bylaw 891-2021",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=188285a1-e404-4f6b-8ff7-a1f60f8fee5d",
+            "text": "Building - Bylaw 662-04",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=61c953e9-fb10-496b-8a33-76ee76d536e8",
+            "text": "Building Renovation of Municipal Building and Free Standing Fire Hall - Bylaw 750-12",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=9216b686-0b7a-4363-8928-50090c4638b2",
+            "text": "Business License - Bylaw 882-2021",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=2b9c6c16-dc10-48e8-87c8-85c4ac6e111d",
+            "text": "By-law Enforcement Fines Penalty - By-Law 928-2024",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=5f678c28-9934-433b-a993-f3f0b7130164",
+            "text": "Commercial Industrial Development Incentive - Bylaw 858-19",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=44bb1039-3439-41eb-ab2e-5f1da783b0c9",
+            "text": "Construction of a New Cell at the Pinawa Lagoon - Bylaw 782-14",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=20f49dd2-f363-4393-a569-608a05d85b18",
+            "text": "Construction of New Lagoon Bylaw 823-17",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=a9e6ad9f-c87c-4079-8726-77553eef842f",
+            "text": "Council Code of Conduct - Bylaw 874-2020",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=3f80c2eb-caa8-4e51-9a7a-02f95e245f98",
+            "text": "Council Procedures - Bylaw 914-2023",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=a4cdb800-0e1e-4fa3-a59e-26f47e9f9efc",
+            "text": "Council Indemnity By-law 936-2024",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=3f54537a-718f-4597-b1c5-e4f80765fe3c",
+            "text": "Development Plan - Bylaw 877-2021",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=baaa6ec0-96b8-494e-8a31-4aa5bed42af2",
+            "text": "Development Plan with maps",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=a97800c4-5213-4922-a3c5-7d4eb2a91360",
+            "text": "Dog Control - Bylaw 846-19",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=bdec4d43-6c04-4a24-b71e-60e597456601",
+            "text": "Firearms - Bylaw 648-03",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=54f5617a-73c5-48fd-9732-8456628e49b1",
+            "text": "Fire Prevention &amp; Emergency Services - Bylaw 760-13",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=f2bbed33-a91c-4ea8-bf10-a273e2cf1426",
+            "text": "Lagoon Borrowing of Funds - Bylaw 812-16",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=2f4c0147-8137-4503-aefb-2dc775602c85",
+            "text": "Landfill Closure Reserve - Bylaw 866-2020",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=f71a7183-606f-4f36-b36b-793abb5e7150",
+            "text": "Lending Pinawa Golf and Country Club - Bylaw 820-17",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=e3d4b155-9477-487f-97c8-014253d52e48",
+            "text": "Local Improvement - Awanipark Water - Bylaw 834-18",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=f41097b2-3026-4107-9fc2-183def92f8a8",
+            "text": "Marina Reserve Fund - Bylaw 860-19",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=aace849b-b8f9-4826-9f27-3c797500a527",
+            "text": "Marina Upgrade Project - Bylaw 859-19",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=5a555987-9ed2-4126-af37-ad82d3f0fe1c",
+            "text": "Municipal Bylaw Enforcement - Bylaw 907-23",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=0e57b69f-4116-47eb-afc4-fccd38fe42b7",
+            "text": "No Parking and Tow Away Zone Bylaw 873-2020",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=1d1d840f-509e-4905-b020-fdd08795e8fb",
+            "text": "Noise Control - Bylaw 941-2025",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=739bc403-ccc1-45c9-b4cf-c0a0c8f9226f",
+            "text": "Operation of a Cemetery - Bylaw 752-12",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=faad5ab7-6585-47ac-a821-83f74fb101c8",
+            "text": "Operation of Off-Road Vehicles - Bylaw 898-2022",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=7a332797-21cf-4898-98a3-d15c7807c4b0",
+            "text": "Organizational By-law 938-2024",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=a9e041f0-83e2-4ff9-a554-fe052047f4ee",
+            "text": "Outdoor Fire Risk Reduction and Controlled Burning - Bylaw 923-2024",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=0f3a6579-98b1-4296-adb0-9579db4341d4",
+            "text": "Pinawa Golf And Country Club Grant for Water And Sewer - Bylaw 774-13",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=5a78da7a-ffdf-41ec-a441-4bc473f30d37",
+            "text": "Pinawa Waterfront Secondary Plan",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=0e905656-5533-48a4-b541-60f375981efc",
+            "text": "Prohibit Smoking in Outdoor Locations Bylaw 819-16",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=bd653b7e-51f9-4114-ac43-bf5c9ddf4cf4",
+            "text": "Raffle License Lotteries - Bylaw 762-13",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=3d22cbcd-281d-4e33-954d-af66cc802883",
+            "text": "Re-zoning - Bylaw 779-14",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=aa090fa5-3e0d-48ce-a7db-d4e77b70a81e",
+            "text": "Regulate The Grading Of Property - Bylaw 781-14",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=8f29f381-6303-4992-9b13-f8165a776943",
+            "text": "Regulation of Traffic and Parking - Bylaw 765-13",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=b296be68-6709-4a99-973a-02151fba2938",
+            "text": "Regulation of Water Meters Bylaw 753-12",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=24637810-f64a-4ada-9b3f-ceb104b8921e",
+            "text": "Road Paving Reserve Fund - Bylaw 855-19",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=4daa3563-0a04-4b27-a7fb-9cd009803a81",
+            "text": "Secondary Plan - Bylaw 832-18",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=681dcfca-861f-4c3d-9a7b-df806736fc01",
+            "text": "Set Campaign Expenses for Municipal Elections - By-law 950-2026",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=2ae00f96-0cde-4f46-be35-51e42550d2d2",
+            "text": "Sewer &amp; Water Connection Rates - Bylaw 921-2023",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=6f274be1-b71b-49a0-b02f-b28a303c3795",
+            "text": "Sewer &amp; Water Utility Rates - Bylaw 918-2023",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=5196bb92-09c2-47d5-961b-6c7c925f8fcf",
+            "text": "Speed Limit within a School Zone - Bylaw 807-15",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=d7aeb2f1-c81d-479d-a98e-3decbdad133e",
+            "text": "Tax Increment Financing Zone (TIFF) - Bylaw 886-2021",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=31fd4796-ab73-447d-aa99-291acd976b50",
+            "text": "Tax Installment Payment Plan (TIPPS) - Bylaw 904-2023",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=c206e112-5063-4138-81f1-ef0680142ebe",
+            "text": "Tax Levy and Financial Plan 2025 - By-Law 942-2025",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=2708e93b-6f6d-48a9-af0f-9e726f161f18",
+            "text": "Tax Levy 2020 - Bylaw 867-2020",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=4cce8e01-e070-47e2-b180-03889fcc55b6",
+            "text": "Tax Levy 2019 - Bylaw 851-19",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=8105e5bb-6bf0-4d63-8e07-d86f73975c87",
+            "text": "The Fees, Fines and Charges-Bylaw 909-23- Revised Fee Schedule",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=894f8bf0-d19d-4788-a7fd-643f4620787d",
+            "text": "Tim Horton Children&#39;s Foundation Servicing Agreement - Bylaw 785-14",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=52727622-1881-4286-bdad-ee5298fe4dcb",
+            "text": "Traffic and Parking By-law 947-2026",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=cab8b269-5cd0-4a21-95df-793cd97c57f3",
+            "text": "Traffic Signage Bylaw 885-2021",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=b69bd61e-0537-45d5-95c6-b3862b1eb1e1",
+            "text": "Trailer Parks and Tourist Camps - Bylaw 550-96",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=d3016469-b7a0-4f74-9c7e-a04b1f7425fb",
+            "text": "Travel Trailer Parks and Campgrounds - By-Law 939-2025",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=37fd0fd1-6e5b-426c-84c5-32efb6732fd1",
+            "text": "Use of Municipal Resources in an Election Period - By-law 951-2026",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=4aa7a5d4-2351-4ea5-a0e6-88773b32496c",
+            "text": "Unsightly Property - Bylaw 864-2020",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=f3c0d879-e711-4651-adfc-e6ae30362882",
+            "text": "Utility Reserve Fund - Bylaw 862-19",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=9d958dc2-4466-43d5-8e95-45bd259d4bfc",
+            "text": "Waste Management System - Bylaw 888-2021",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=b30b4a33-eb47-463f-9fa6-d7b5c94a7c7d",
+            "text": "Waterline Renewal - Bylaw 891-2021",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=9c1251b8-313f-4ead-a724-8728d3ff60a8",
+            "text": "Waterline Renewal Project - Bylaw 847-19",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=ca54a522-9479-415f-829f-fe2bde0bc50a",
+            "text": "Wildlife - Feeding of Deer - Bylaw 635-02",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=87bc1431-3333-4596-931b-11835af49f7b",
+            "text": "Zoning Bylaw 887-2021",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=7ff5049f-9695-4505-8193-b49866558ea6",
+            "text": "Pinawa Development Plan",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=8b651c59-3526-4e87-a1ca-a2ea3eb91cca",
+            "text": "Pinawa Waterfront Secondary Plan",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.pinawa.com/Home/DownloadDocument?docId=39b70b50-4101-4862-8e77-4104f4f8275c",
+            "text": "Zoning Amendment - Bylaw 887-2021",
+            "strong": true,
+            "via": "folder viewer"
+          }
+        ],
+        "n_strong": 10
+      },
       {
         "url": "https://www.pinawa.com/p/by-laws",
         "found_via": "By-Laws, Policies & Plans",
@@ -19708,12 +20164,17 @@
     "fetched": 16,
     "name": "PINAWA (LGD)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": [
+      "https://www.pinawa.com/p/documents-library"
+    ]
   },
   "muni:162": {
     "owner": "muni:162",
     "home": "https://www.rmofpipestone.com/",
-    "checked": "2026-11-05T08:40:01-05:00",
+    "checked": "2026-11-27T13:06:47-05:00",
     "pages": [
       {
         "url": "https://www.rmofpipestone.com/p/by-laws-financials-and-forms",
@@ -19808,7 +20269,8 @@
     "fetched": 12,
     "name": "PIPESTONE (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:347": {
     "owner": "muni:347",
@@ -19941,12 +20403,12 @@
   "muni:192": {
     "owner": "muni:192",
     "home": "https://www.rmofprairielakes.ca/",
-    "checked": "2026-11-05T08:40:08-05:00",
+    "checked": "2026-11-27T13:05:40-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
     "home_final": "https://www.rmofprairielakes.ca/",
-    "fetched": 11,
+    "fetched": 10,
     "name": "PRAIRIE LAKES (RM)",
     "locked_pages": [],
     "agent_pages": [
@@ -20135,7 +20597,10 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "broken page",
+    "pages_changed": []
   },
   "muni:610": {
     "owner": "muni:610",
@@ -20280,7 +20745,7 @@
   "muni:181": {
     "owner": "muni:181",
     "home": "https://www.rmwest.ca/",
-    "checked": "2026-11-05T08:40:19-05:00",
+    "checked": "2026-11-27T13:06:49-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -20388,7 +20853,8 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {}
   },
   "muni:550": {
     "owner": "muni:550",
@@ -20617,7 +21083,7 @@
   "muni:169": {
     "owner": "muni:169",
     "home": "https://rmofroland.ca/",
-    "checked": "2026-11-05T08:43:31-05:00",
+    "checked": "2026-11-27T13:03:46-05:00",
     "pages": [
       {
         "url": "https://rmofroland.ca/by-laws",
@@ -20679,6 +21145,18 @@
           }
         ],
         "n_strong": 2
+      },
+      {
+        "url": "https://rmofroland.ca/index.asp?SEC=21C077BB-C4F3-45AE-9C81-763202971334&DE=55224403-9A81-4364-9FF0-4CB404DFB35F",
+        "found_via": "Zoning Amendment Hearing Monday Dec 21 at 6:30",
+        "docs": [
+          {
+            "url": "https://rmofroland.ca/vertical/sites/%7B71CFED93-C958-4E51-B771-2566523137D4%7D/uploads/Public_Hearing_Notice_Zoning_Amendment_Bylaw_2026-04.pdf",
+            "text": "Public_Hearing_Notice_Zoning_Amendment_Bylaw_2026-04.pdf",
+            "strong": true
+          }
+        ],
+        "n_strong": 1
       }
     ],
     "error": null,
@@ -20747,7 +21225,11 @@
           "via": "folder viewer"
         }
       ]
-    }
+    },
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": [
+      "https://rmofroland.ca/index.asp?SEC=21C077BB-C4F3-45AE-9C81-763202971334&DE=55224403-9A81-4364-9FF0-4CB404DFB35F"
+    ]
   },
   "muni:164": {
     "owner": "muni:164",
@@ -20994,7 +21476,7 @@
   "muni:168": {
     "owner": "muni:168",
     "home": "https://www.rockwood.ca/",
-    "checked": "2026-11-05T08:40:25-05:00",
+    "checked": "2026-11-13T13:02:29-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -21107,12 +21589,15 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:443": {
     "owner": "muni:443",
     "home": "https://www.riversdaly.ca/",
-    "checked": "2026-11-05T08:40:20-05:00",
+    "checked": "2026-11-13T13:02:46-05:00",
     "pages": [
       {
         "url": "https://riversdaly.ca/by-law",
@@ -21351,7 +21836,10 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:170": {
     "owner": "muni:170",
@@ -26486,7 +26974,7 @@
   "muni:172": {
     "owner": "muni:172",
     "home": "https://www.rmofrosser.com/",
-    "checked": "2026-11-05T08:40:31-05:00",
+    "checked": "2026-11-20T13:02:29-05:00",
     "pages": [
       {
         "url": "https://rmofrosser.com/centreport-documents",
@@ -26847,12 +27335,15 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:184": {
     "owner": "muni:184",
     "home": "https://www.rmofsifton.com/",
-    "checked": "2026-11-05T08:40:39-05:00",
+    "checked": "2026-11-27T13:06:57-05:00",
     "pages": [
       {
         "url": "https://rmofsifton.com/index.asp?SEC=28B0686A-879F-4D3B-AFDD-F4CA019F3AA6",
@@ -26873,7 +27364,8 @@
     "fetched": 13,
     "name": "SIFTON (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:611": {
     "owner": "muni:611",
@@ -27416,8 +27908,26 @@
   "muni:449": {
     "owner": "muni:449",
     "home": "https://www.sourismanitoba.com/",
-    "checked": "2026-11-05T08:43:31-05:00",
-    "pages": [],
+    "checked": "2026-11-20T13:06:21-05:00",
+    "pages": [
+      {
+        "url": "https://sourismanitoba.com/index.asp?SEC=3ECAFF93-0C9B-407D-A0CB-92411B4DB609&DE=CB0CA086-700C-4B60-BD7B-286CDED11CE3",
+        "found_via": "Planning, Permits and Zoning",
+        "docs": [
+          {
+            "url": "https://sourismanitoba.com/uploads/dm/165880/382021_SG_Zoning_Bylaw.pdf",
+            "text": "38-2021 SG Zoning By-law.pdf",
+            "strong": true
+          },
+          {
+            "url": "https://sourismanitoba.com/uploads/dm/165875/772025_SG_Development_Plan_Bylaw.pdf",
+            "text": "77-2025 SG Development Plan By-law.pdf",
+            "strong": true
+          }
+        ],
+        "n_strong": 2
+      }
+    ],
     "error": null,
     "home_status": 200,
     "home_final": "https://sourismanitoba.com/",
@@ -27468,7 +27978,7 @@
   "muni:189": {
     "owner": "muni:189",
     "home": "https://www.rmofspringfield.ca/",
-    "checked": "2026-11-05T08:40:45-05:00",
+    "checked": "2026-11-27T13:02:10-05:00",
     "pages": [
       {
         "url": "https://www.rmofspringfield.ca/p/previous-planning-meetings",
@@ -27713,14 +28223,7 @@
             "url": "https://springfield.municipalwebsites.ca/ckfinder/connector?command=Proxy&lang=en&type=Files&currentFolder=%2Fdocuments%2Fplanning%2FHearing%20September%2024-2026%2F&hash=c245c263ce0eced480effe66bbede6b4d46c15ae&fileName=Var%2026-50%20Notice%20and%20Map.pdf",
             "text": "Public Hearing for Zoning Variance 26-50",
             "strong": true
-          }
-        ],
-        "n_strong": 44
-      },
-      {
-        "url": "https://www.rmofspringfield.ca/p/upcoming-planning-hearings",
-        "found_via": "Upcoming Public Hearings Under the Planning Act",
-        "docs": [
+          },
           {
             "url": "https://springfield.municipalwebsites.ca/ckfinder/connector?command=Proxy&lang=en&type=Files&currentFolder=%2Fdocuments%2Fplanning%2FOctober%2022-%202026%2F&hash=c245c263ce0eced480effe66bbede6b4d46c15ae&fileName=NOTICE%20of%20Public%20Hearing%20DPA%20BL%2026-11.pdf",
             "text": "Public Hearing for Development Plan Amendment By-law 26-11 – Aggregate to Employment",
@@ -27752,16 +28255,182 @@
             "strong": true
           }
         ],
+        "n_strong": 50
+      },
+      {
+        "url": "https://www.rmofspringfield.ca/p/by-laws-documents",
+        "found_via": "By-laws & Documents",
+        "docs": [
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=b4e5418f-a0bd-466f-8c98-ce2d8dd36dc1",
+            "text": "08-21 Weeping Tile By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=c2be63d0-71d8-4169-87a1-2bf2bf2f48e7",
+            "text": "13-14 Amendment to By-law 12-15 Sewer and Water",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=e5d65ccd-4967-4cd5-8b81-62d55ccc2597",
+            "text": "15-11 Utility Rates By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=2a435a5d-4cab-4fb8-a17e-5f4a4163ba94",
+            "text": "17-15 Lot Grade By-law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=74b2170f-02b3-4a07-82e6-72e7ead2bf74",
+            "text": "19-11 Noise By-Law (to regulate and prohibit unnecessary and harmful noise)",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=fe322e62-e920-4976-bb08-8324b5058904",
+            "text": "19-12 Enforcement By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=adba4a8f-fc40-48f7-94b3-ad224be2e954",
+            "text": "19-18 Municipal By-Law Enforcement Act",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=88f6911b-c507-401e-8110-a96afd595957",
+            "text": "22-01 SFRS Enabling By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=2a3a133f-1696-4862-830f-b141ffa5b206",
+            "text": "22-02 Fire Prevention, Fire Inspection, and Fire Investigation By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=4b11654e-ab60-4079-a076-b85616c595f5",
+            "text": "22-03 Open Fire and Controlled Burning By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=70f0d20b-f82f-4536-8120-9d79ea3bbd81",
+            "text": "23-06 Organizational By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=20d13c13-0eae-4380-93f9-e836b7d7e517",
+            "text": "23-14 Traffic By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=4ddbc74d-b9e4-445b-8086-74fde789ef7e",
+            "text": "23-15 Off-Road Vehicle By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=727efb57-b315-4bb8-ba33-22820fdd1dc8",
+            "text": "24-05 Building By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=443471ee-e476-40e9-a5bd-d26dea79c5ee",
+            "text": "24-08 Taxation By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=e9855c69-0423-4756-9b84-07a1d025a091",
+            "text": "24-10 Procedural By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=7c1f1817-4fea-4f67-bdd5-5bc9daa65f5e",
+            "text": "25-11 Abandoned and Derelict Vehicle By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=f8f3cf2c-c95f-4ad8-94ac-2bdfa8e28e97",
+            "text": "25-12 Unsightly Properties By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=e50baea5-b8bd-469c-9d53-33e12580214d",
+            "text": "93-26 Snowmobile By-law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=58fff750-0d2f-4471-bd5b-177d4e9028f1",
+            "text": "By-law 18-09 Springfield Development Plan 2019",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=29c5906e-f97e-415f-b1d8-8808917b31c3",
+            "text": "Development Plan Amendments",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=dadae43c-32a4-433a-ba53-00f7f2d99d41",
+            "text": "ZONING BY-LAW 08-01",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=f0da672e-2aad-4d11-a74e-81d0f18b30b9",
+            "text": "Zoning By-law Amendments",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=a3c16074-87ba-4899-bce4-422a36ec0464",
+            "text": "Bylaw 25-04",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=0ebbc227-078e-491c-a1f6-b6dacbba716f",
+            "text": "OBS Secondary Plan By-law 21-20",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofspringfield.ca/Home/DownloadDocument?docId=ba59a828-93d0-400f-8785-c112f2f9da56",
+            "text": "WPR Secondary Plan By-law 21-21",
+            "strong": true,
+            "via": "folder viewer"
+          }
+        ],
         "n_strong": 6
       }
     ],
     "error": null,
     "home_status": 200,
     "home_final": "https://www.rmofspringfield.ca/",
-    "fetched": 12,
+    "fetched": 11,
     "name": "SPRINGFIELD (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:175": {
     "owner": "muni:175",
@@ -28019,7 +28688,7 @@
   "muni:359": {
     "owner": "muni:359",
     "home": "https://www.sterose.ca/",
-    "checked": "2026-11-05T08:41:09-05:00",
+    "checked": "2026-11-06T13:05:27-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -28037,7 +28706,10 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:351": {
     "owner": "muni:351",
@@ -28955,7 +29627,7 @@
   "muni:453": {
     "owner": "muni:453",
     "home": "https://www.stonewall.ca/",
-    "checked": "2026-11-05T08:41:20-05:00",
+    "checked": "2026-11-27T13:06:57-05:00",
     "pages": [
       {
         "url": "https://www.stonewall.ca/p/by-laws-",
@@ -28969,6 +29641,11 @@
           {
             "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=21de195d-9315-467d-9018-8877ba10aab8",
             "text": "By-Law 03-26 Cemetery",
+            "strong": false
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=b74bc447-9970-49ae-91bf-d52a3f3bc24c",
+            "text": "By-Law 02-27 Utility Rates & Septic Haulers - 1ST READING",
             "strong": false
           },
           {
@@ -29288,6 +29965,11 @@
             "strong": false
           },
           {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=b74bc447-9970-49ae-91bf-d52a3f3bc24c",
+            "text": "By-Law 02-27 Utility Rates & Septic Haulers - 1ST READING",
+            "strong": false
+          },
+          {
             "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=759943f0-d7c6-4a9d-95fc-d089727ca406",
             "text": "By-Law 04-26 Traffic",
             "strong": false
@@ -29585,6 +30267,391 @@
         "n_strong": 2
       },
       {
+        "url": "https://www.stonewall.ca/p/documents",
+        "found_via": "Documents",
+        "docs": [
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=dfd442cf-dfdc-471d-9151-480c1d2a2d99",
+            "text": "By-Law 01-26 Special Services Waste &amp; Recycling",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=21de195d-9315-467d-9018-8877ba10aab8",
+            "text": "By-Law 03-26 Cemetery",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=b74bc447-9970-49ae-91bf-d52a3f3bc24c",
+            "text": "By-Law 02-27 Utility Rates &amp; Septic Haulers - 1ST READING",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=759943f0-d7c6-4a9d-95fc-d089727ca406",
+            "text": "By-Law 04-26 Traffic",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=50357ed3-49cd-45f6-ade7-36335a1c28e9",
+            "text": "By-Law 01-25 Special Services Levy - Curbside Waste &amp; Recycling",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=868f252e-a5ba-4097-84cc-28f35c7b8761",
+            "text": "By-Law 10-25 Collection of Fees and Charges for Fire Emergency Services",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=0c3b0bf1-071e-4c56-88d4-679292327c32",
+            "text": "By-Law 08-25 Burning",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=0b2eb32d-342c-483a-b8ce-c9229eb3f8cd",
+            "text": "By-Law 02-22 General Borrowing Kilns Restoration",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=3a80fc7f-d6da-4611-b199-f641b73593fa",
+            "text": "By-Law 02-25 Special Services Levy - Urban Services",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=423e7b10-c1f4-4a42-bbd2-e22d9f110095",
+            "text": "By-Law 03-11 Local Improvement Debenture",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=d9611774-f877-4c8b-b111-51063e309e51",
+            "text": "By-Law 03-25 Designated Officer By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=4f80393c-0d1d-4360-a2f6-fe131b1549e8",
+            "text": "By-Law 04-25 General Borrowing Regional Water Project",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=9b1bcdd7-8689-48f4-8908-12a64b3d58de",
+            "text": "By-Law 07-09 Heritage Arts Centre Capital Borrowing",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=8d824a5f-1da5-4d23-a9aa-c6cf473eaafc",
+            "text": "By-Law 08-17 Local Improvement Lagoon Upgrade Debenture",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=e7824206-1a49-44bd-94ee-f386c7eeb356",
+            "text": "By-Law 16-24 Utility Rates Septic Haulers",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=315a8a00-e10b-422b-aec2-e5ffbf02a16c",
+            "text": "By-Law 18-24 Council Code of Conduct",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=dc1f4c91-6760-4c3a-b103-3757fa041cc1",
+            "text": "By-Law 19-24 Driveway Permit",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=46d188cc-d4f4-4dad-83c2-f0657435d3c8",
+            "text": "By-Law 20-24 Animal Control",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=8d6ed7da-5c29-4f18-a716-f85d0e0e1b06",
+            "text": "By-Law 21-24 Regulate Smoking &amp; Vaping at Outdoor Facilities",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=16dfb73d-2a73-4a43-ba85-55f51e3d9c5c",
+            "text": "By-Law 26-10 West Lift Station Rehabilitation",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=ac13446d-49fb-43e0-9f28-992cae4a4421",
+            "text": "By-Law 02-23 Organizational",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=8218a897-bee0-46b6-a8c3-0810391e2127",
+            "text": "By-Law 03-24 Derelict Vehicles",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=f07dcb2b-aaec-4f07-9d16-e33362d262ac",
+            "text": "By-Law 04-24 Firearms",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=2a45979b-0f6d-4643-aa08-8f2a3a881dd3",
+            "text": "By-Law 05-23 Building By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=7f080000-d127-4c40-b4b1-343f7bafdab6",
+            "text": "By-Law 05-24 Lot Grade with permit",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=72a321f9-c0f3-492a-8b7d-93ccd6e17c48",
+            "text": "By-Law 06-16 Zoning",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=f4935123-3c57-4a9f-992f-2ec07ebd9385",
+            "text": "By-Law 06-24 Nuisance Noise",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=71739791-643c-4a4f-a6c5-f7dbe806c78c",
+            "text": "By-Law 07-24 Removal of Topsoil",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=184a27ba-e3e5-48f5-ab4d-e5c72faa6f82",
+            "text": "By-Law 08-23 Utility Rates &amp; Septic Haulers",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=5c6e926f-3cdc-4d7e-8fd3-24a3a12aa8ba",
+            "text": "By-Law 08-24 Unsightly Property",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=4d3f5a53-b8a0-4faf-ad3a-dc18e8eb894e",
+            "text": "By-Law 09-23 Municipal By-Law Enforcement Act",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=91d3832e-8372-4f97-92da-19730640cad8",
+            "text": "By-Law 09-24 Driveway with permit",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=d10416fa-75c9-49eb-b14f-3969e0765ccf",
+            "text": "By-Law 10-24 Culverts, Approaches and Ditches",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=09eafb69-9360-44c9-b4f6-0774e7a835eb",
+            "text": "By-Law 13-23 Raffle Lottery",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=fa36417d-5a13-4c3d-b97f-a53bb61c0962",
+            "text": "By-Law 13-24 Municipal Heritage Designation - Anglican Church",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=e4ddfab7-ac45-4dc6-8af4-22107d00af13",
+            "text": "By-Law 10-23 Reduced Speed Zone",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=cf246f45-9a78-42ab-9e4e-ef92d7ab62f2",
+            "text": "By-Law 04-22 Council Indemnity By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=99786c1c-ecf7-40ca-91ba-d26b865b0b75",
+            "text": "By-Law 03-22 Use of Municipal Resources in an Election",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=a7bb3ff7-97fe-4a84-a446-df9e827fcdd5",
+            "text": "By-Law 12/00 Alarm System",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=7b4f9849-88c5-487a-b8cd-44dc62ddf35d",
+            "text": "By-Law 06-19 Municipal Heritage Designation of Kilns",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=eec9ccfa-88b1-4804-8ca8-faacf410be61",
+            "text": "By-Law 07-19 Reduced Speed School Zones",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=7e1b9876-0019-4893-8924-c9e5bbe8136f",
+            "text": "By-Law 08-19 Reduced Speed Zone",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=c0e22c1c-6352-4ab8-bc37-02e7d187b3f7",
+            "text": "By-Law 09-21 Stonewall Heritage with Policy 14-11",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=f35a8c4c-c092-4083-b349-0dc3d755542c",
+            "text": "By-Law 16-13 Snow Disposal",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=a14b6116-e9fb-4d3f-8788-dd24499609a7",
+            "text": "By-Law 17-71 and BL 04-19 Mobile Homes",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=952ec4de-f5df-4353-8a1a-96dfc6e36e2d",
+            "text": "By-Law 03-18 Cannabis Zoning Amendment",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=bd5449ad-019e-479d-96f1-95fd74b82c1d",
+            "text": "By-Law 01-21 Repeal Sunday Shopping Regulations",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=af34f304-d4e7-462f-81ce-91e86878b234",
+            "text": "By-Law 38-94 Waste Management as amended",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=b8fc7169-f4bb-4031-914c-71e33167f263",
+            "text": "By-Law 18/04 Public Reserve-Open Space Use",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=86e37eef-d99a-474b-b20f-c9a797ab496e",
+            "text": "By-Law 07-16 Capital Lot Levies",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=781c287e-020c-41e8-9433-c9ae3b294cdd",
+            "text": "By-Law 9/97 Physically Disabled Parking",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=b202eb48-13f8-4e5d-a81e-9ce7deddd23f",
+            "text": "By-Law 02-27 Utility Rates &amp; Septic Haulers - 1ST READING",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=bb67a553-f91c-4038-9630-95faf10e0f8e",
+            "text": "By-Law 12-25 Utility Rates &amp; Septic Haulers",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=e09428ea-0de8-4acc-a6db-612f84102ea5",
+            "text": "By-Law 02-26 Special Service Urban Services",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=ba4587d1-1ba6-4503-9f65-28d3b53cd60a",
+            "text": "2026 Tax By-Law and Financial Plan",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=b4791e3e-41e8-4b7f-bd46-a5dae58cdc34",
+            "text": "2025 Tax By-Law and Financial Plan",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=b926ebf5-0449-46b0-a915-e0ed867a3ce6",
+            "text": "2024 Tax By-Law and Financial Plan",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=282e3645-ab48-4757-9504-e7cd64b9a069",
+            "text": "2023 Tax By-Law and Financial Plan",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=88a3ff7b-4c4b-4e57-a3f1-e0a5e932a6cf",
+            "text": "2022 Tax By-Law and Financial Plan",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=8094fd1e-c5c2-4283-bc8e-355bf3343cbd",
+            "text": "2021 Tax By-Law and Financial Plan",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=b476f845-6130-4f44-bae1-1f572aea8193",
+            "text": "2020 Tax By-Law and Financial Plan",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=318970f1-6063-4d68-a759-48f4bbe83d5a",
+            "text": "2019 Tax By-Law and Financial Plan",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=e631c8a9-09d5-46a2-931d-da694997bb61",
+            "text": "2018 Tax By-Law and Financial Plan",
+            "strong": false,
+            "via": "folder viewer"
+          }
+        ],
+        "n_strong": 2
+      },
+      {
         "url": "https://www.stonewall.ca/p/permits-and-licenses-",
         "found_via": "Permits and Licenses",
         "docs": [
@@ -29596,6 +30663,11 @@
           {
             "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=21de195d-9315-467d-9018-8877ba10aab8",
             "text": "By-Law 03-26 Cemetery",
+            "strong": false
+          },
+          {
+            "url": "https://www.stonewall.ca/Home/DownloadDocument?docId=b74bc447-9970-49ae-91bf-d52a3f3bc24c",
+            "text": "By-Law 02-27 Utility Rates & Septic Haulers - 1ST READING",
             "strong": false
           },
           {
@@ -29902,12 +30974,13 @@
     "fetched": 12,
     "name": "STONEWALL (TOWN)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "muni:612": {
     "owner": "muni:612",
     "home": "https://www.rmofstuartburn.com/",
-    "checked": "2026-11-05T08:41:20-05:00",
+    "checked": "2026-11-13T13:03:48-05:00",
     "pages": [
       {
         "url": "https://www.rmofstuartburn.com/p/bylaws",
@@ -29990,6 +31063,199 @@
           }
         ],
         "n_strong": 7
+      },
+      {
+        "url": "https://www.rmofstuartburn.com/p/files-and-documents",
+        "found_via": "Files & Documents",
+        "docs": [
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=808d6143-0ff3-40eb-9f3b-7a363878c156",
+            "text": "Zoning Amendment Application Form",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=e846511f-2ad7-40da-92ee-ca957ea7b758",
+            "text": "057-2004 Derelict By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=8ad6a478-8e05-4595-975a-9dc7022e102b",
+            "text": "064-2005 Regulate Large Animals Running at Large By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=09ba1109-09b7-4ee4-ab23-d8d101d03f91",
+            "text": "142-2017 Lot Grade By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=67ef1662-a34c-4e05-a0f6-df45cd8f6794",
+            "text": "144-2018 New Ward Boundary By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=d405fe8e-9582-49f0-b9cd-51a788332c88",
+            "text": "163-2020 Tax Incentive By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=29423298-d3e5-4136-8045-66191966addd",
+            "text": "167-2020 Council Members Code of Conduct By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=964e0924-7df2-42f5-853f-98fd906f1b2d",
+            "text": "179-2021 Burning By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=2ef80842-6e42-4af3-a172-7984a57a4b61",
+            "text": "183-2022 Building By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=4bf5ae22-9d23-47e9-9140-64c030b638de",
+            "text": "184-2022 Use of Municipal Resources in an Election By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=a42f5237-349e-47b2-aa88-6f21ee5960fa",
+            "text": "188-2022 Organizational By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=9295c80a-54db-4769-9050-7c6ac4f989b7",
+            "text": "191-2023 Transfer Station Fees By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=0600e669-de80-4339-8f27-76fa11a05be8",
+            "text": "192-2023 Indemnity By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=1f8d296f-64bf-4239-bb06-2e8df40589a0",
+            "text": "193-2024 Utility Rates By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=ec9474cd-b3f3-4417-acc1-cfe0766531d5",
+            "text": "195-2024 Animal Control By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=c40c7df5-7be3-4c95-b4c1-72c7d83d5daa",
+            "text": "201-2024 Fire Protection Special Services By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=606d5539-d079-441e-98af-d0823c587b16",
+            "text": "203-2025 Centra Gas Franchise By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=ca4d716f-30c1-4b1f-9e3d-283596c6b2ef",
+            "text": "205-2025 Remuneration for Firemen By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=39bc4979-b553-4153-94a5-5083dd682920",
+            "text": "206-2025 Speed Limit By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=9a310bdc-48cc-4402-a0cd-c2642f46d2f4",
+            "text": "207-2025 Reduced-Speed School Zone By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=1c2b9602-8acc-467f-9e14-308963fcfd08",
+            "text": "209-2026 Fee and Charges By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=35668359-cebe-4dd7-bd27-9551855f08fe",
+            "text": "210-2026 Aggregate By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=281b8c76-96f5-4f84-805f-942aeff77a1a",
+            "text": "211-2026 Tax Levy By-Law 2026",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=c55cf3b6-9ce2-4d82-8e74-9293055f7598",
+            "text": "Utility Rate Study Document and By-law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=c44d86bf-26e8-4a8f-b1b1-7705360c1896",
+            "text": "Land Use Action Plan",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=b66274c9-df1e-42d4-9729-39559d52087b",
+            "text": "157-2019 Development Plan By-Law",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=4ec7bd83-fdc8-4586-979d-ab1e67c54da4",
+            "text": "157-2019 Development Plan By-Law Map 1",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=f9528ed3-84c1-46f8-8982-7a6638128600",
+            "text": "157-2019 Development Plan By-Law Maps 2-5",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=eab394f9-f3a4-4317-8488-5c7f7520d484",
+            "text": "186-2022 Zoning By-Law",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=82980de8-f10a-402e-bb4c-c15be6c40336",
+            "text": "186-2022 Zoning By-Law Map 1",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofstuartburn.com/Home/DownloadDocument?docId=d6c09425-a9f5-42ba-9d42-a7fa7481aa4a",
+            "text": "186-2022 Zoning By-Law Map 2-5",
+            "strong": true,
+            "via": "folder viewer"
+          }
+        ],
+        "n_strong": 7
       }
     ],
     "error": null,
@@ -29998,7 +31264,12 @@
     "fetched": 11,
     "name": "STUARTBURN (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": [
+      "https://www.rmofstuartburn.com/p/files-and-documents"
+    ]
   },
   "muni:451": {
     "owner": "muni:451",
@@ -30034,7 +31305,7 @@
   "muni:122": {
     "owner": "muni:122",
     "home": "https://www.twoborders.ca/",
-    "checked": "2026-11-05T08:41:37-05:00",
+    "checked": "2026-11-20T13:05:29-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -30420,12 +31691,14 @@
           "via": "folder viewer"
         }
       ]
-    }
+    },
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:363": {
     "owner": "muni:363",
     "home": "https://www.teulon.ca/",
-    "checked": "2026-11-05T08:41:27-05:00",
+    "checked": "2026-11-06T13:02:01-05:00",
     "pages": [
       {
         "url": "https://www.teulon.ca/p/by-laws",
@@ -30616,12 +31889,15 @@
     "fetched": 9,
     "name": "TEULON (TOWN)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:195": {
     "owner": "muni:195",
     "home": "https://www.rmofthompson.com/",
-    "checked": "2026-11-05T08:41:36-05:00",
+    "checked": "2026-11-20T13:05:14-05:00",
     "pages": [
       {
         "url": "https://www.rmofthompson.com/p/by-laws",
@@ -31222,7 +32498,10 @@
     "fetched": 7,
     "name": "THOMPSON (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:457": {
     "owner": "muni:457",
@@ -32142,7 +33421,7 @@
   "muni:197": {
     "owner": "muni:197",
     "home": "https://www.rmofvictoria.com/",
-    "checked": "2026-11-05T08:41:41-05:00",
+    "checked": "2026-11-13T13:05:14-05:00",
     "pages": [
       {
         "url": "https://rmofvictoria.com/bylaws-policies",
@@ -32439,7 +33718,10 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:560": {
     "owner": "muni:560",
@@ -32724,7 +34006,7 @@
   "muni:194": {
     "owner": "muni:194",
     "home": "https://www.rmtache.ca/",
-    "checked": "2026-11-05T08:41:26-05:00",
+    "checked": "2026-11-13T13:02:00-05:00",
     "pages": [
       {
         "url": "https://www.rmtache.ca/p/zoning-development-plan-amendments",
@@ -32910,7 +34192,10 @@
     "fetched": 18,
     "name": "TACHE (RM)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:201": {
     "owner": "muni:201",
@@ -33276,8 +34561,129 @@
   "muni:200": {
     "owner": "muni:200",
     "home": "https://www.westlake-gladstone.ca/",
-    "checked": "2026-11-05T08:41:56-05:00",
+    "checked": "2026-11-13T13:05:29-05:00",
     "pages": [
+      {
+        "url": "https://www.westlake-gladstone.ca/p/documents-forms",
+        "found_via": "Documents & Forms",
+        "docs": [
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=6646d55e-e95a-4348-a209-8bcb43707783",
+            "text": "Building By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=72d81f92-b5a3-4d5f-b54b-a47821fb105c",
+            "text": "Zoning By-Law",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=2ba1fb31-414f-45a7-b2e5-d47a5cbf182c",
+            "text": "2026-03 Tax levy Bylaw",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=4ab91a51-965c-492e-a150-370abf93d58e",
+            "text": "2025-19 Tax Prepayment By-law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=abab6a57-6670-4504-8e99-f037f20d33c0",
+            "text": "2025-17 Zoning Amendment R519000",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=ef4e41c5-acbc-4ad2-86e7-63f50225e042",
+            "text": "2025-13 Traffic Control Bylaw",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=469ff35e-ef77-47cc-8df0-f0712e4e7d5b",
+            "text": "2025-10 Transient Business By-law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=1e079b70-8fee-49b9-b2f2-b23353ee96ee",
+            "text": "2025-09 Tax Levy Bylaw",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=d160bee4-905d-4eeb-ab8a-ff39afea2e00",
+            "text": "2024-05 Plumas Utility Rate Bylaw",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=25a0ce0e-e285-4179-a1f0-96362b3f2da5",
+            "text": "2024-03 Tax Levy By-law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=b696f171-26e4-4f7e-a031-a486c20265ac",
+            "text": "Resolution vacant and derelict building bylaw",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=fc4ff430-7802-451b-b8f1-7effcf04fd66",
+            "text": "2022-14 Derelict Building By-Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=f1fd4ad1-cb5e-4fa8-9cdf-e063eafa99be",
+            "text": "2022-09 Development Plan Amendment",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=9884d702-d2f3-4262-a8a6-472057596a0b",
+            "text": "2018-01 Fire Prevention &amp; Emergency Services By-law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=cf1b6fa8-4d90-4618-8994-e0b70622f2b2",
+            "text": "2018-10 Council Indemnity By-law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=43e6628f-dff1-4dd4-bbdd-6b397b5100fd",
+            "text": "2015-01 Organizational By Law",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=3bbb3b4c-9be8-403c-b7fb-ee7df5b6c704",
+            "text": "Public Notice to Borrowing By-Law 2025-08",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=b11d2b6a-cabe-47d9-bc37-cdff46d52ba8",
+            "text": "Notice of By-Law 2025-20 Grader Purchase",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.westlake-gladstone.ca/Home/DownloadDocument?docId=350f20ad-030d-4855-a722-105d324c9c9c",
+            "text": "By-law 2025-15 - Zoning Amendment - Private Camps",
+            "strong": true,
+            "via": "folder viewer"
+          }
+        ],
+        "n_strong": 4
+      },
       {
         "url": "https://www.westlake-gladstone.ca/p/by-laws-policy",
         "found_via": "By-Laws & Policies",
@@ -33420,7 +34826,12 @@
     "fetched": 7,
     "name": "WESTLAKE-GLADSTONE (MUNICIPALITY)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": [
+      "https://www.westlake-gladstone.ca/p/documents-forms"
+    ]
   },
   "muni:461": {
     "owner": "muni:461",
@@ -34455,7 +35866,7 @@
   "muni:185": {
     "owner": "muni:185",
     "home": "https://www.rmofwestinterlake.com/",
-    "checked": "2026-11-05T08:41:44-05:00",
+    "checked": "2026-11-13T13:03:00-05:00",
     "pages": [
       {
         "url": "https://rmofwestinterlake.com/bylaws",
@@ -35361,12 +36772,15 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:183": {
     "owner": "muni:183",
     "home": "https://www.yellowheadmunicipality.ca/",
-    "checked": "2026-11-05T08:42:05-05:00",
+    "checked": "2026-11-20T13:05:46-05:00",
     "pages": [
       {
         "url": "https://www.yellowheadmunicipality.ca/p/bylaws",
@@ -36588,7 +38002,10 @@
     "fetched": 7,
     "name": "YELLOWHEAD (MUNICIPALITY)",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:463": {
     "owner": "muni:463",
@@ -36634,7 +38051,7 @@
   "muni:203": {
     "owner": "muni:203",
     "home": "https://www.rmwhitemouth.com/",
-    "checked": "2026-11-05T08:41:57-05:00",
+    "checked": "2026-11-27T13:04:37-05:00",
     "pages": [
       {
         "url": "https://rmwhitemouth.com/bylaws",
@@ -38359,7 +39776,10 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:465": {
     "owner": "muni:465",
@@ -38500,7 +39920,7 @@
   "pd:LAC DU BONNET": {
     "owner": "pd:LAC DU BONNET",
     "home": "https://www.lacdubonnet.com/",
-    "checked": "2026-11-05T08:42:20-05:00",
+    "checked": "2026-11-27T13:07:01-05:00",
     "pages": [],
     "error": null,
     "home_status": 200,
@@ -38749,7 +40169,8 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {}
   },
   "pd:KEYSTONE": {
     "owner": "pd:KEYSTONE",
@@ -38839,7 +40260,7 @@
   "pd:FISHER ARMSTRONG": {
     "owner": "pd:FISHER ARMSTRONG",
     "home": "https://rmoffisher.com/zoning",
-    "checked": "2026-11-05T08:42:15-05:00",
+    "checked": "2026-11-06T13:02:58-05:00",
     "pages": [
       {
         "url": "https://rmoffisher.com/zoning",
@@ -38875,7 +40296,10 @@
     "fetched": 7,
     "name": "FISHER ARMSTRONG",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "muni:206": {
     "owner": "muni:206",
@@ -39563,7 +40987,7 @@
   "pd:DENNIS COUNTY": {
     "owner": "pd:DENNIS COUNTY",
     "home": "https://www.rmofpipestone.com/p/dennis-county-planning-district",
-    "checked": "2026-11-05T08:42:12-05:00",
+    "checked": "2026-11-27T13:06:59-05:00",
     "pages": [
       {
         "url": "https://www.rmofpipestone.com/p/by-laws-financials-and-forms",
@@ -39658,12 +41082,13 @@
     "fetched": 11,
     "name": "DENNIS COUNTY",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "pd:KELSEY": {
     "owner": "pd:KELSEY",
     "home": "https://www.townofthepas.ca/",
-    "checked": "2026-11-05T08:42:17-05:00",
+    "checked": "2026-11-27T13:06:59-05:00",
     "pages": [
       {
         "url": "https://townofthepas.ca/land-use-and-development",
@@ -39757,8 +41182,8 @@
             "strong": false
           },
           {
-            "url": "https://townofthepas.ca/vertical/sites/%7BB1225F10-83CE-4583-9E63-CD3FD10CA66A%7D/uploads/Organizational_and_Procedures_By-Law_-_4631.pdf",
-            "text": "Organizational and Procedures By-Law - 4631 (2022)",
+            "url": "https://townofthepas.ca/vertical/sites/%7BB1225F10-83CE-4583-9E63-CD3FD10CA66A%7D/uploads/TOTP_By-law_4643.pdf",
+            "text": "Organizational and Procedures By-Law - 4643 (2024)",
             "strong": false
           },
           {
@@ -39787,7 +41212,7 @@
             "strong": false
           },
           {
-            "url": "https://townofthepas.ca/vertical/sites/%7BB1225F10-83CE-4583-9E63-CD3FD10CA66A%7D/uploads/ByLaw2265_3916bbc1c3.pdf",
+            "url": "https://townofthepas.ca/vertical/sites/%7BB1225F10-83CE-4583-9E63-CD3FD10CA66A%7D/uploads/TOTP_by-law_2265.pdf",
             "text": "Traffic By-Law No. 2265 (1977)",
             "strong": false
           },
@@ -39830,10 +41255,11 @@
     "error": null,
     "home_status": 200,
     "home_final": "https://townofthepas.ca/",
-    "fetched": 10,
+    "fetched": 9,
     "name": "KELSEY",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "pd:CARMAN-DUFFERIN": {
     "owner": "pd:CARMAN-DUFFERIN",
@@ -40621,7 +42047,7 @@
   "pd:LAKESHORE": {
     "owner": "pd:LAKESHORE",
     "home": "https://www.rmofdauphin.ca/",
-    "checked": "2026-11-05T08:42:23-05:00",
+    "checked": "2026-11-27T13:07:04-05:00",
     "pages": [
       {
         "url": "https://www.rmofdauphin.ca/p/development-plan",
@@ -40714,7 +42140,8 @@
     "fetched": 13,
     "name": "LAKESHORE",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "pd:MUNICIPALITY OF ROBLIN": {
     "owner": "pd:MUNICIPALITY OF ROBLIN",
@@ -41625,7 +43052,7 @@
   "pd:EASTERN INTERLAKE": {
     "owner": "pd:EASTERN INTERLAKE",
     "home": "https://interlakeplanning.com/",
-    "checked": "2026-11-05T08:42:15-05:00",
+    "checked": "2026-11-27T13:06:13-05:00",
     "pages": [
       {
         "url": "https://interlakeplanning.com/by-laws",
@@ -41700,7 +43127,10 @@
     "fetched": 18,
     "name": "EASTERN INTERLAKE",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "pd:NOR-MAC": {
     "owner": "pd:NOR-MAC",
@@ -41959,7 +43389,7 @@
   "pd:MID-WEST": {
     "owner": "pd:MID-WEST",
     "home": "https://www.midwestplanning.ca/",
-    "checked": "2026-11-05T08:42:25-05:00",
+    "checked": "2026-11-27T13:03:18-05:00",
     "pages": [
       {
         "url": "https://midwestplanning.ca/mwpd-development-plan/",
@@ -42103,7 +43533,7 @@
         "found_via": "Municipal Zoning & Building By-Laws",
         "docs": [
           {
-            "url": "https://midwestplanning.ca/wp-content/uploads/2026/10/PVM_ZBL_2018-15_Consolidated_oct2026.pdf",
+            "url": "https://midwestplanning.ca/wp-content/uploads/2026/11/PVM_ZBL_2018-15_Consolidated_oct2026_2.pdf",
             "text": "Consolidated Prairie View Municipality Zoning By-Law 2018-15 with Amendments (October 2026)",
             "strong": true
           },
@@ -42114,31 +43544,36 @@
           },
           {
             "url": "https://midwestplanning.ca/wp-content/uploads/2021/04/PVM_2016-03-Building-By-Law.pdf",
-            "text": "Building By-Law 2016-03",
+            "text": "Prairie View Municipality",
             "strong": false
           },
           {
             "url": "https://midwestplanning.ca/wp-content/uploads/2024/10/HM_Consolidated_ZoningBy-Law_2019-04_with_Amendments_2024.pdf",
-            "text": "Consolidated Zoning By-Law 2019-04 with Amendments",
+            "text": "Consolidated Hamiota Municipality Zoning By-Law 2019-04 with Amendments",
             "strong": true
           },
           {
             "url": "https://midwestplanning.ca/wp-content/uploads/2024/07/Hamiota-Municipality-Building-By-Law-2024-03_web.pdf",
-            "text": "Building By-Law 2024-03",
+            "text": "Hamiota Municipality Building By-Law 2024-03",
             "strong": false
           },
           {
             "url": "https://midwestplanning.ca/wp-content/uploads/2024/10/RMOV_ZoningBy-Law_2019-3.pdf",
-            "text": "Zoning By-Law 2019-3",
+            "text": "Rural Municipality of Oakview Zoning By-Law 2019-3",
+            "strong": true
+          },
+          {
+            "url": "https://midwestplanning.ca/wp-content/uploads/2026/11/RMOV_ZBLA_2026-15_FinalMaps_Signed.pdf",
+            "text": "Rural Municipality of Oakview Zoning By-Law Amendment #2026-15",
             "strong": true
           },
           {
             "url": "https://midwestplanning.ca/wp-content/uploads/2021/04/RM_Oakview_Building_By-Law.pdf",
-            "text": "Building By-Law 2016-2",
+            "text": "Rural Municipality of Oakview Building By-Law 2016-2",
             "strong": false
           }
         ],
-        "n_strong": 3
+        "n_strong": 4
       },
       {
         "url": "https://midwestplanning.ca/13-october-2026-birtle-pvm-zoning-by-law-amendment/",
@@ -42164,7 +43599,10 @@
     "fetched": 17,
     "name": "MID-WEST",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "pd:SOUTH CENTRAL": {
     "owner": "pd:SOUTH CENTRAL",
@@ -42960,7 +44398,7 @@
   "pd:PORTAGE LA PRAIRIE": {
     "owner": "pd:PORTAGE LA PRAIRIE",
     "home": "https://www.ptgplanningdistrict.ca/",
-    "checked": "2026-11-05T08:42:42-05:00",
+    "checked": "2026-11-13T13:03:26-05:00",
     "pages": [
       {
         "url": "https://www.ptgplanningdistrict.ca/8/city-planning-city-zoning-by-law",
@@ -43035,12 +44473,15 @@
     "fetched": 18,
     "name": "PORTAGE LA PRAIRIE",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "pd:RED RIVER": {
     "owner": "pd:RED RIVER",
     "home": "https://www.rrpd.ca/",
-    "checked": "2026-11-05T08:42:43-05:00",
+    "checked": "2026-11-20T13:06:28-05:00",
     "pages": [
       {
         "url": "https://www.redriverplanning.com/planning_zoning_by_laws",
@@ -43190,12 +44631,13 @@
     "fetched": 18,
     "name": "RED RIVER",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "pd:WHITE HORSE PLAINS": {
     "owner": "pd:WHITE HORSE PLAINS",
     "home": "https://www.rmofcartier.ca/",
-    "checked": "2026-11-05T08:43:03-05:00",
+    "checked": "2026-11-20T13:04:57-05:00",
     "pages": [
       {
         "url": "https://www.rmofcartier.ca/p/bylaws",
@@ -43327,13 +44769,341 @@
             "text": "Ward System By-Law 1480-97",
             "strong": false,
             "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=3382eda9-84b6-488c-b52a-3d16add60dc9",
+            "text": "Lido Plage Secondary Plan By-Law 1674-19",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=73d4a72c-e795-42df-9ef9-68062af7e567",
+            "text": "Zoning By-Law 1658-18 Maps",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=7b8466be-703a-4b47-b34e-73c189d96700",
+            "text": "Zoning By-Law Amendment 1662-18 (Addition of RS1 Designation)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=6602d7a0-794d-47fa-a16f-bc92d1e3ce57",
+            "text": "Zoning By-Law Amendment 1671-19 (Lido Plage North)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=4e51c07c-9b19-4ce6-9e96-5e2f7e907d57",
+            "text": "Zoning By-Law Amendment 1672-19 (Elie North)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=1ced8b31-06dd-411c-b880-4bb0d254e3e5",
+            "text": "Zoning By-Law Amendment 1673-19 (St. Eustache)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9608909b-fea6-4db2-889c-04fbb1d20ebc",
+            "text": "Zoning By-Law Amendment 1677-20 (Lido Plage South)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=ac32122c-a6fd-450a-87bf-b92dcfd98c68",
+            "text": "Zoning By-Law Amendment 1678-20 (Apiaries)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=02e6d5c6-97f8-4b8a-91ed-47555a46678f",
+            "text": "Zoning By-Law Amendment 1682-20 (Elie)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=7864e68e-179f-433d-93cc-05423ad80d56",
+            "text": "Zoning By-Law Amendment 1683-20 (Springstein)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=a2e2f552-4b75-4368-bbf9-f18ac05da37c",
+            "text": "Zoning By-Law Amendment 1685-20 (St. Eustache)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9abeffde-2227-490f-af92-7cd99a778c9b",
+            "text": "Zoning By-Law Amendment 1689-21 (Elie)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=a28b4abd-7b17-434a-ab97-3f1540fbd338",
+            "text": "Zoning By-Law Amendment 1690-21 (Elie North)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=06f0a5e6-93d3-4c59-9a5f-01172e3db258",
+            "text": "Zoning By-Law Amendment 1709-23 with Appendix Updates",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=8f1d5750-4892-47de-9b9c-9b1e24ab795f",
+            "text": "Zoning By-Law Amendment 1714-24 (Lido Plage)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=c89a493c-67be-4445-a1cd-ef4c5932195b",
+            "text": "Zoning By-Law Amendment 1717-24 (St. Eustache)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=40a9a51f-d737-4a8d-9479-ae4d1d64bc6d",
+            "text": "Zoning By-Law Amendment 1725-25 - Lido Plage",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=a3d3df1e-88ba-48e8-aceb-59ed525b6f3d",
+            "text": "Zoning By-Law Amendment By-Law 1728-26 (Elie)",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=25c9f09b-a30a-4a1a-a145-e8c43b21fb92",
+            "text": "Zoning By-Law Amendment Consolidated Version up to 1709-23",
+            "strong": true,
+            "via": "folder viewer"
           }
         ],
-        "n_strong": 6
+        "n_strong": 25
+      },
+      {
+        "url": "https://www.rmofcartier.ca/p/building-and-planning",
+        "found_via": "Building and Planning",
+        "docs": [
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9240943a-1ef9-4a70-b7a9-8c67f88423dc",
+            "text": "Zoning By-Law 1658-18",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=39f1d2c3-f5a1-47f6-b705-4a3fc5e70726",
+            "text": "Planning District Development Plan",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=73d4a72c-e795-42df-9ef9-68062af7e567",
+            "text": "Zoning By-Law 1658-18 Maps",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=7b8466be-703a-4b47-b34e-73c189d96700",
+            "text": "Zoning By-Law Amendment 1662-18 (Addition of RS1 Designation)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=6602d7a0-794d-47fa-a16f-bc92d1e3ce57",
+            "text": "Zoning By-Law Amendment 1671-19 (Lido Plage North)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=4e51c07c-9b19-4ce6-9e96-5e2f7e907d57",
+            "text": "Zoning By-Law Amendment 1672-19 (Elie North)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=1ced8b31-06dd-411c-b880-4bb0d254e3e5",
+            "text": "Zoning By-Law Amendment 1673-19 (St. Eustache)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9608909b-fea6-4db2-889c-04fbb1d20ebc",
+            "text": "Zoning By-Law Amendment 1677-20 (Lido Plage South)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=ac32122c-a6fd-450a-87bf-b92dcfd98c68",
+            "text": "Zoning By-Law Amendment 1678-20 (Apiaries)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=02e6d5c6-97f8-4b8a-91ed-47555a46678f",
+            "text": "Zoning By-Law Amendment 1682-20 (Elie)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=7864e68e-179f-433d-93cc-05423ad80d56",
+            "text": "Zoning By-Law Amendment 1683-20 (Springstein)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=a2e2f552-4b75-4368-bbf9-f18ac05da37c",
+            "text": "Zoning By-Law Amendment 1685-20 (St. Eustache)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9abeffde-2227-490f-af92-7cd99a778c9b",
+            "text": "Zoning By-Law Amendment 1689-21 (Elie)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=a28b4abd-7b17-434a-ab97-3f1540fbd338",
+            "text": "Zoning By-Law Amendment 1690-21 (Elie North)",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=06f0a5e6-93d3-4c59-9a5f-01172e3db258",
+            "text": "Zoning By-Law Amendment 1709-23 with Appendix Updates",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=25c9f09b-a30a-4a1a-a145-e8c43b21fb92",
+            "text": "Zoning By-Law Amendment Consolidated Version up to 1709-23",
+            "strong": true
+          },
+          {
+            "url": "https://cartier.municipalwebsites.ca/ckfinder/connector?command=Proxy&lang=en&type=Files&currentFolder=%2F&hash=c245c263ce0eced480effe66bbede6b4d46c15ae&fileName=Lido%20Plage%20Secondary%20Plan%20-%20Final%203rd%20Reading%20Version.pdf",
+            "text": "Lido Plage Secondary Plan By-Law 1674-19",
+            "strong": true
+          },
+          {
+            "url": "https://cartier.municipalwebsites.ca/ckfinder/connector?command=Proxy&lang=en&type=Files&currentFolder=%2FBuilding%20and%20Planning%2FBy-laws%2F&hash=c245c263ce0eced480effe66bbede6b4d46c15ae&fileName=1621-11-Building%20Inspection.pdf",
+            "text": "Building By-Law 1621-11",
+            "strong": false
+          }
+        ],
+        "n_strong": 17
+      },
+      {
+        "url": "https://www.rmofcartier.ca/p/white-horse-plains-planning-district",
+        "found_via": "White Horse Plains Planning District",
+        "docs": [
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9240943a-1ef9-4a70-b7a9-8c67f88423dc",
+            "text": "Zoning By-Law 1658-18",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=39f1d2c3-f5a1-47f6-b705-4a3fc5e70726",
+            "text": "Planning District Development Plan",
+            "strong": true
+          },
+          {
+            "url": "https://cartier.municipalwebsites.ca/UploadFiles/Docs/WHPPDDevelopmentPlan12016_QyWKg4.pdf",
+            "text": "White Horse Plains Planning District Development Plan 1-2016",
+            "strong": true
+          },
+          {
+            "url": "https://cartier.municipalwebsites.ca/UploadFiles/Docs/DevelopmentPlan12016Maps_bCEh8y.pdf",
+            "text": "Development Plan 1-2016 Maps",
+            "strong": true
+          },
+          {
+            "url": "https://cartier.municipalwebsites.ca/UploadFiles/Docs/DevelopmentPlanAmendment120193rdReadingSigned_iFUACc.pdf",
+            "text": "Development Plan Amendment 1-2019 - 3rd Reading",
+            "strong": true
+          },
+          {
+            "url": "https://cartier.municipalwebsites.ca/ckfinder/connector?command=Proxy&lang=en&type=Files&currentFolder=%2F&hash=c245c263ce0eced480effe66bbede6b4d46c15ae&fileName=WHPPD%20-%20Procedural%20By-Law%201-2023.pdf",
+            "text": "WHPPD Procedural By-Law 1-2023",
+            "strong": false
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=53eede82-5333-4464-97b6-8f4082d75a1e",
+            "text": "WHPPD Development Plan Public Hearing Minutes - August 25, 2016",
+            "strong": true,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=7bb857e9-b328-4ddb-ab45-4b1c955e4897",
+            "text": "04 11 19 Public Hearing Minutes Development Plan Amendment 1-2019",
+            "strong": true,
+            "via": "folder viewer"
+          }
+        ],
+        "n_strong": 7
       },
       {
         "url": "https://www.rmofcartier.ca/",
         "found_via": "home",
+        "docs": [
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9240943a-1ef9-4a70-b7a9-8c67f88423dc",
+            "text": "Zoning By-Law 1658-18",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=39f1d2c3-f5a1-47f6-b705-4a3fc5e70726",
+            "text": "Planning District Development Plan",
+            "strong": true
+          }
+        ],
+        "n_strong": 2
+      },
+      {
+        "url": "https://www.rmofcartier.ca/p/local-government",
+        "found_via": "Local Government",
+        "docs": [
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9240943a-1ef9-4a70-b7a9-8c67f88423dc",
+            "text": "Zoning By-Law 1658-18",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=39f1d2c3-f5a1-47f6-b705-4a3fc5e70726",
+            "text": "Planning District Development Plan",
+            "strong": true
+          }
+        ],
+        "n_strong": 2
+      },
+      {
+        "url": "https://www.rmofcartier.ca/p/reeve-and-council",
+        "found_via": "Reeve and Council",
+        "docs": [
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9240943a-1ef9-4a70-b7a9-8c67f88423dc",
+            "text": "Zoning By-Law 1658-18",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=39f1d2c3-f5a1-47f6-b705-4a3fc5e70726",
+            "text": "Planning District Development Plan",
+            "strong": true
+          }
+        ],
+        "n_strong": 2
+      },
+      {
+        "url": "https://www.rmofcartier.ca/p/minutes",
+        "found_via": "Council Meetings",
+        "docs": [
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9240943a-1ef9-4a70-b7a9-8c67f88423dc",
+            "text": "Zoning By-Law 1658-18",
+            "strong": true
+          },
+          {
+            "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=39f1d2c3-f5a1-47f6-b705-4a3fc5e70726",
+            "text": "Planning District Development Plan",
+            "strong": true
+          }
+        ],
+        "n_strong": 2
+      },
+      {
+        "url": "https://www.rmofcartier.ca/p/economic-development",
+        "found_via": "Economic Development",
         "docs": [
           {
             "url": "https://www.rmofcartier.ca/Home/DownloadDocument?docId=9240943a-1ef9-4a70-b7a9-8c67f88423dc",
@@ -43355,12 +45125,22 @@
     "fetched": 8,
     "name": "WHITE HORSE PLAINS",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": [
+      "https://www.rmofcartier.ca/p/building-and-planning",
+      "https://www.rmofcartier.ca/p/economic-development",
+      "https://www.rmofcartier.ca/p/local-government",
+      "https://www.rmofcartier.ca/p/minutes",
+      "https://www.rmofcartier.ca/p/reeve-and-council",
+      "https://www.rmofcartier.ca/p/white-horse-plains-planning-district"
+    ]
   },
   "pd:TANNER'S CROSSING": {
     "owner": "pd:TANNER'S CROSSING",
     "home": "https://tcpd.ca/",
-    "checked": "2026-11-05T08:42:51-05:00",
+    "checked": "2026-11-27T13:04:02-05:00",
     "pages": [
       {
         "url": "https://tcpd.ca/bylaws-and-maps/",
@@ -43510,12 +45290,15 @@
     "fetched": 8,
     "name": "TANNER'S CROSSING",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "pd:YELLOWHEAD": {
     "owner": "pd:YELLOWHEAD",
     "home": "https://www.yellowheadmunicipality.ca/p/building-permit",
-    "checked": "2026-11-05T08:43:31-05:00",
+    "checked": "2026-11-06T13:03:08-05:00",
     "pages": [
       {
         "url": "https://www.yellowheadmunicipality.ca/p/bylaws",
@@ -44738,12 +46521,14 @@
     "name": "YELLOWHEAD",
     "locked_pages": [],
     "agent_pages": [],
-    "locked_docs": {}
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "pd:THOMPSON": {
     "owner": "pd:THOMPSON",
     "home": "https://www.thompson.ca/",
-    "checked": "2026-11-05T08:42:55-05:00",
+    "checked": "2026-11-27T13:07:04-05:00",
     "pages": [
       {
         "url": "https://www.thompson.ca/p/zoning-and-development",
@@ -45015,15 +46800,16 @@
     "error": null,
     "home_status": 200,
     "home_final": "https://www.thompson.ca/",
-    "fetched": 13,
+    "fetched": 14,
     "name": "THOMPSON",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "pd:WINNIPEG RIVER": {
     "owner": "pd:WINNIPEG RIVER",
     "home": "https://www.rmalexander.com/",
-    "checked": "2026-11-05T08:43:31-05:00",
+    "checked": "2026-11-27T13:07:08-05:00",
     "pages": [
       {
         "url": "https://www.rmalexander.com/p/by-laws",
@@ -45096,6 +46882,12 @@
             "via": "folder viewer"
           },
           {
+            "url": "https://www.rmalexander.com/Home/DownloadDocument?docId=d1583dc5-90a0-430b-a3a6-300536a1e6be",
+            "text": "By-Law 13-26 Paroisse Saint-Georges Historical Site",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
             "url": "https://www.rmalexander.com/Home/DownloadDocument?docId=bc75f6fc-115a-4c8f-8701-68f9bc0f83ac",
             "text": "By-Law 14-24 Travel Trailer",
             "strong": false,
@@ -45144,7 +46936,7 @@
     "error": null,
     "home_status": 200,
     "home_final": "https://www.rmalexander.com/",
-    "fetched": 11,
+    "fetched": 12,
     "name": "WINNIPEG RIVER",
     "locked_pages": [],
     "agent_pages": [],
@@ -45153,7 +46945,7 @@
   "pd:WHITEMOUTH REYNOLDS": {
     "owner": "pd:WHITEMOUTH REYNOLDS",
     "home": "https://rmwhitemouth.com/building-construction",
-    "checked": "2026-11-05T08:43:03-05:00",
+    "checked": "2026-11-06T13:05:49-05:00",
     "pages": [
       {
         "url": "https://rmwhitemouth.com/bylaws",
@@ -46895,12 +48687,15 @@
     "fetched": 12,
     "name": "WHITEMOUTH REYNOLDS",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "pd:WESTERN INTERLAKE": {
     "owner": "pd:WESTERN INTERLAKE",
     "home": "https://rmofwestinterlake.com/wipd",
-    "checked": "2026-11-05T08:42:59-05:00",
+    "checked": "2026-11-27T13:04:55-05:00",
     "pages": [
       {
         "url": "https://rmofwestinterlake.com/bylaws",
@@ -47715,6 +49510,18 @@
             "text": "2-2025 Borrowing ByLaw Eriksdale FD Fire Truck Signed Sealed Dec 16 2025.pdf",
             "strong": false,
             "via": "folder viewer"
+          },
+          {
+            "url": "https://rmofwestinterlake.com/uploads/dm/166507/1-2026 Amending Borrowing By-Law (Fire Truck) May 14 2026 Municipal Board Copy Signed.pdf",
+            "text": "1-2026 Amending Borrowing By-Law (Fire Truck) May 14 2026 Municipal Board Copy Signed.pdf",
+            "strong": false,
+            "via": "folder viewer"
+          },
+          {
+            "url": "https://rmofwestinterlake.com/uploads/dm/166508/2-2026 Tax Levy By-Law Signed.pdf",
+            "text": "2-2026 Tax Levy By-Law Signed.pdf",
+            "strong": false,
+            "via": "folder viewer"
           }
         ],
         "n_strong": 10
@@ -47736,12 +49543,15 @@
         "script_blocked": false,
         "found_at": "2026-11-05"
       }
-    ]
+    ],
+    "locked_docs": {},
+    "recrawl_reason": "quarterly rotation",
+    "pages_changed": []
   },
   "pd:TRI-ROADS": {
     "owner": "pd:TRI-ROADS",
     "home": "https://www.triroads.ca/",
-    "checked": "2026-11-05T08:42:59-05:00",
+    "checked": "2026-11-27T13:07:05-05:00",
     "pages": [
       {
         "url": "https://triroads.ca/rmwby-lawsandmaps2026-05",
@@ -47858,7 +49668,8 @@
     "fetched": 15,
     "name": "TRI-ROADS",
     "locked_pages": [],
-    "agent_pages": []
+    "agent_pages": [],
+    "locked_docs": {}
   },
   "pd:RPGA": {
     "owner": "pd:RPGA",

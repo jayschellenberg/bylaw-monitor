@@ -136,8 +136,8 @@ def collect(reg: dict, apply: bool = False) -> list[dict]:
                 "consolidation_date": new_date, "status": "pending"}
         if decision.startswith("file") and apply:
             dest, members = _targets(item)
-            name = f"{FILED_LABEL[r['doc_type']]} {r['od_bylaw']} - Consolidated {new_date or date.today().isoformat()} - {path.stem}"
-            new_path = (dest / _safe(name, 150)).with_suffix(path.suffix)
+            name = f"{FILED_LABEL[r['doc_type']]} {r['od_bylaw']} - Consolidated {new_date or 'undated'} - {path.stem}"
+            new_path = dest / (_safe(name, 150) + path.suffix)     # not with_suffix: names like "St._Laurent" hold dots
             dest.mkdir(parents=True, exist_ok=True)
             archived = []
             for f in held_cons:
