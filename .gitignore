@@ -1,0 +1,21 @@
+# --- common: machine files, caches, secrets ---
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.local.*
+.claude/settings.local.json
+~$*
+Thumbs.db
+desktop.ini
+*.log
+# --- generated data (rebuilt every week); hand-edited state is kept ---
+logs/
+data/*
+!data/munis.csv
+!data/pds.csv
+!data/web_ignore.json
+!data/draft_exceptions.json
+!data/watched_pages.json

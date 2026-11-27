@@ -1,0 +1,5 @@
+{
+  "maps_dir": "C:\\path\\to\\bylaw-library",
+  "mb_parcelsearch_dir": "C:\\path\\to\\manitoba-opendata-parcelsearch",
+  "ntfy_topic": "choose-a-private-topic-name"
+}
